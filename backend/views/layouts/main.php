@@ -35,42 +35,44 @@ AppAsset::register($this);
 		<?php $this->beginBody() ?>
 
     <!--        Preloader-->
-    <?= $this->render('@app/web/partials/preloader.php') ?>
+		<?= $this->render('@app/views/partials/preloader.php') ?>
     <!--        Preloader End-->
 
     <div class="flex h-screen overflow-hidden">
 
 
-	    <?= $this->render('@app/web/partials/sidebar.php') ?>
+			<?= $this->render('@app/views/partials/sidebar.php') ?>
 
         <div
                 class="relative flex flex-1 flex-col overflow-y-auto overflow-x-hidden"
         >
             <!--        Header-->
-            <?= $this->render('@app/web/partials/header.php') ?>
+					<?= $this->render('@app/views/partials/header.php') ?>
             <!--        Header End-->
 
             <div style="height: 16px"></div>
             <main role="main" class="flex-shrink-0">
                 <div class="mx-auto max-w-screen-2xl p-4 md:p-6 2xl:p-10">
-<!--									--><?php //= Breadcrumbs::widget([
-//										'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
-//									]) ?>
-<!---->
+
+                    <?php
+//                    print_r($this->params['breadcrumbs'] ?? []);
+//                    die();
+
+                    ?>
+
                     <div
                             class="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between"
                     >
                         <h2 class="text-title-md2 font-bold text-black dark:text-white">
-                            Form Layout
+                            <?= $this->title ?>
                         </h2>
-
                         <nav>
-                            <ol class="flex items-center gap-2">
-                                <li>
-                                    <a class="font-medium" href="index.html">Dashboard /</a>
-                                </li>
-                                <li class="font-medium text-primary">Form Layout</li>
-                            </ol>
+	                        <?= Breadcrumbs::widget([
+		                        'itemTemplate' => '<li class="font-medium">{link} /</li>',
+		                        'links' => $this->params['breadcrumbs'] ?? [],
+		                        'options' => ['class' => 'flex items-center gap-2'],
+		                        'activeItemTemplate' => '<li class="font-medium text-primary">{link}</li>',
+	                        ]) ?>
                         </nav>
                     </div>
 									<?= Alert::widget() ?>
