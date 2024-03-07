@@ -56,6 +56,12 @@ AppAsset::register($this);
 
                     <?php
 //                    print_r($this->params['breadcrumbs'] ?? []);
+//                    print_r($this->params['breadcrumbs']['label'] );
+//                    $mylist = array_column($this->params['breadcrumbs'], 'label') ?: [];
+//                    $mylist[] = end($this->params['breadcrumbs']);
+//                    echo 'lsdjfsdlkfjds' . in_array('Permissions', $this->params['breadcrumbs'][]['label'] ?? []);
+//                    echo implode(', ', array_column($this->params['breadcrumbs'], 'label'));
+//                    print_r($mylist);
 //                    die();
 
                     ?>
