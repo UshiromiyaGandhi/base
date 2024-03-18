@@ -8,6 +8,5 @@ class CanUpdateOwnProduct extends \yii\rbac\Rule
 	public function execute($user, $item, $params)
 	{
 
-
 	}
 }
