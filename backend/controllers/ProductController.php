@@ -10,6 +10,7 @@ use yii\db\Query;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
+use yii\web\UploadedFile;
 
 /**
  * ProductController implements the CRUD actions for Product model.
@@ -27,7 +28,7 @@ class ProductController extends Controller
 				'verbs' => [
 					'class' => VerbFilter::className(),
 					'actions' => [
-						'delete' => ['POST'],
+						'delete' => ['POST', 'GET'],
 					],
 				],
 			]
@@ -53,19 +54,50 @@ class ProductController extends Controller
 	/**
 	 * Displays a single Product model.
 	 * @param int $id ID
-	 * @return string
+	 * @return string|\yii\web\Response
 	 * @throws NotFoundHttpException if the model cannot be found
 	 */
 	public function actionView($id)
 	{
+		$modelParent = $this->findModel($id);
 		$searchModel = new ProductVariantSearch();
-//		$dataProvider = $searchModel->search($this->request->queryParams);
 		$dataProvider = $searchModel->search($this->request->queryParams, $id);
 
+		\Yii::debug('attribut dibawahkuyh');
+		\Yii::debug($modelParent->attributes);
+		\Yii::debug('post dibwahkyuh');
+		\Yii::debug(\Yii::$app->request->post());
+		if ($this->request->isPost ) {
+			$modelParent->load($this->request->post());
+			$modelParent->save();
+			\Yii::debug('kesavegksih');
+			return $this->redirect(['view', 'id' => $modelParent->id]);
+		}
+
 		return $this->render('view', [
-			'modelParent' => $this->findModel($id),
+			'modelParent' => $modelParent,
 			'searchModel' => $searchModel,
 			'dataProvider' => $dataProvider,
+		]);
+	}
+
+	/**
+	 * Updates an existing Product model.
+	 * If update is successful, the browser will be redirected to the 'view' page.
+	 * @param int $id ID
+	 * @return string|\yii\web\Response
+	 * @throws NotFoundHttpException if the model cannot be found
+	 */
+	public function actionUpdate($id)
+	{
+		$model = $this->findModel($id);
+
+		if ($this->request->isPost && $model->load($this->request->post()) && $model->save()) {
+			return $this->redirect(['view', 'id' => $model->id]);
+		}
+
+		return $this->render('update', [
+			'model' => $model,
 		]);
 	}
 
@@ -73,6 +105,23 @@ class ProductController extends Controller
 	{
 		$model = ProductVariant::findOne(['id' => $id]);
 		$modelParent = $model->product;
+		if (isset(\Yii::$app->request->post()['ProductVariant']['image'])){
+			$imageFile = UploadedFile::getInstance($model, 'image');
+			\Yii::debug(\Yii::$app->request->post());
+			$fileName = time() . '.' . $imageFile->extension;
+			try {
+				unlink('uploads/productVariantPhoto/' . $model->image);
+			} catch (\Exception $e) {}
+			$model->image = $fileName;
+			$model->save();
+			$imageFile->saveAs('uploads/productVariantPhoto/' . $fileName);
+			return $this->refresh();
+		}
+		if ($this->request->isPost) {
+			$model->load($this->request->post());
+			$model->save();
+			return $this->refresh();
+		}
 		return $this->render('viewVariant', [
 			'model' => $model,
 			'modelParent' => $modelParent
@@ -122,30 +171,10 @@ class ProductController extends Controller
 		]);
 	}
 
-	/**
-	 * Updates an existing Product model.
-	 * If update is successful, the browser will be redirected to the 'view' page.
-	 * @param int $id ID
-	 * @return string|\yii\web\Response
-	 * @throws NotFoundHttpException if the model cannot be found
-	 */
-	public function actionUpdate($id)
-	{
-		$model = $this->findModel($id);
-
-		if ($this->request->isPost && $model->load($this->request->post()) && $model->save()) {
-			return $this->redirect(['view', 'id' => $model->id]);
-		}
-
-		return $this->render('update', [
-			'model' => $model,
-		]);
-	}
-
 	public function actionToggleActive($id)
 	{
 		$model = $this->findModel($id);
-		$model->active = !$model->active;
+		$model->active = (int)!$model->active;
 		$model->save();
 		return $this->redirect(['index']);
 	}
@@ -178,6 +207,17 @@ class ProductController extends Controller
 		return $this->redirect(['index']);
 	}
 
+	public function actionDeleteVariantImage($variantId)
+	{
+		$model = ProductVariant::findOne($variantId);
+		try {
+			unlink('uploads/productVariantPhoto/' . $model->image);
+		} catch (\Exception $e) {}
+		$model->image = null;
+		$model->save();
+
+		return $this->redirect(['view-variant', 'id' => $variantId]);
+	}
 	public function actionDeleteVariant($id)
 	{
 		$model = ProductVariant::findOne($id);

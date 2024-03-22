@@ -12,6 +12,7 @@ use Yii;
  * @property string|null $name
  * @property string|null $description
  * @property int|null $stock
+ * @property float|null $cost
  * @property int|null $count
  * @property string|null $image
  *
@@ -34,9 +35,9 @@ class ProductVariant extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['id', 'productid', 'stock', 'count'], 'integer'],
+            [['productid', 'stock', 'count'], 'integer'],
+            [['cost'], 'number'],
             [['name', 'description', 'image'], 'string', 'max' => 255],
-            [['id'], 'unique'],
             [['productid'], 'exist', 'skipOnError' => true, 'targetClass' => Product::class, 'targetAttribute' => ['productid' => 'id']],
         ];
     }
@@ -48,17 +49,18 @@ class ProductVariant extends \yii\db\ActiveRecord
     {
         return [
             'id' => 'ID',
-            'productid' => 'Productid',
-            'name' => 'Name',
-            'description' => 'Description',
-            'stock' => 'Stock',
-            'count' => 'Count',
+            'productid' => 'Product Id',
+            'name' => 'Variant Name',
+            'description' => 'Variant Description',
+            'stock' => 'Initial Stock',
+            'cost' => 'Cost',
+            'count' => 'Bought Count',
             'image' => 'Image',
         ];
     }
 
     /**
-     * Gets query for [[Orders]].
+     * Gets query for [[OrderItems]].
      *
      * @return \yii\db\ActiveQuery
      */

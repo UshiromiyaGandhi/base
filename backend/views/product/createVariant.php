@@ -11,7 +11,9 @@ $this->params['breadcrumbs'][] = ['label' => 'Products', 'url' => ['index']];
 $this->params['breadcrumbs'][] = ['label' => $modelParent->name , 'url' => ["view", 'id' => $modelParent->id]];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
-<div class="product-create">
+<div
+	class="rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark"
+>
 
     <?= $this->render('_formVariant', [
         'model' => $model,

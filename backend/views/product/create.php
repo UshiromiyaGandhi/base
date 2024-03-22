@@ -9,9 +9,9 @@ $this->title = 'Create Product';
 $this->params['breadcrumbs'][] = ['label' => 'Products', 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
-<div class="product-create">
-
-    <h1><?= Html::encode($this->title) ?></h1>
+<div
+	class="rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark"
+>
 
     <?= $this->render('_form', [
         'model' => $model,

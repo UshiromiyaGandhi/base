@@ -2,14 +2,17 @@
 
 namespace backend\controllers;
 
+use backend\models\ShopProfileUploadForm;
 use common\models\Shop;
 use common\models\ShopSearch;
 use mdm\admin\models\User;
+use Yii;
 use yii\filters\AccessControl;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 use yii\web\Response;
+use yii\web\UploadedFile;
 
 /**
  * ShopController implements the CRUD actions for Shop model.
@@ -52,14 +55,31 @@ class ShopController extends Controller
 	 */
 	public function actionIndex()
 	{
-		$model = $this->findModel(\Yii::$app->user->identity->getShop());
+		$userModel = Yii::$app->user->identity;
+		$shopModel = $this->findModel($userModel->shop);
+		$profileUploadForm = new ShopProfileUploadForm();
 
-		if ($this->request->isPost && $model->load($this->request->post()) && $model->save()) {
-			return $this->redirect(['view', 'id' => $model->id]);
+		if (
+//			$this->request->isPost &&
+//			$shopModel->load($this->request->post()) &&
+//			$shopModel->save()
+			$userModel->load(Yii::$app->request->post()) &&
+			$shopModel->load(Yii::$app->request->post())
+		) {
+			$userModel->save();
+			$shopModel->save();
+		}
+
+		if (isset(Yii::$app->request->post()['ShopProfileUploadForm'])) {
+			;
+			$profileUploadForm->imageFile = UploadedFile::getInstance($profileUploadForm, 'imageFile');
+			$profileUploadForm->upload($userModel->shop);
 		}
 
 		return $this->render('index', [
-			'model' => $model,
+			'shopModel' => $shopModel,
+			'userModel' => $userModel,
+			'profileUploadForm' => $profileUploadForm
 		]);
 //        $searchModel = new ShopSearch();
 //        $dataProvider = $searchModel->search($this->request->queryParams);

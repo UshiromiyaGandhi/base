@@ -17,7 +17,8 @@ use Yii;
  */
 class OrderItem extends \yii\db\ActiveRecord
 {
-    /**
+
+	/**
      * {@inheritdoc}
      */
     public static function tableName()

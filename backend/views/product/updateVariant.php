@@ -12,9 +12,11 @@ $this->params['breadcrumbs'][] = ['label' => $modelParent->name, 'url' => ['inde
 $this->params['breadcrumbs'][] = ['label' => $model->name, 'url' => ['view', 'id' => $model->id]];
 $this->params['breadcrumbs'][] = 'Update';
 ?>
-<div class="product-update">
+<div
+	class="rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark"
+>
 
-    <?= $this->render('_form', [
+    <?= $this->render('_formVariant', [
         'model' => $model,
     ]) ?>
 

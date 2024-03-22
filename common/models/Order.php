@@ -10,6 +10,7 @@ use Yii;
  * @property int $id
  * @property string|null $phonenum
  * @property string|null $address
+ * @property int|null $processed
  *
  * @property OrderItem[] $orderItems
  * @property Transaction[] $transactions
@@ -30,6 +31,7 @@ class Order extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
+            [['processed'], 'integer'],
             [['phonenum', 'address'], 'string', 'max' => 255],
         ];
     }
@@ -43,6 +45,7 @@ class Order extends \yii\db\ActiveRecord
             'id' => 'ID',
             'phonenum' => 'Phonenum',
             'address' => 'Address',
+            'processed' => 'Processed',
         ];
     }
 

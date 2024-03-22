@@ -40,6 +40,12 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
         array (
             'mdm\\admin\\' => 10,
         ),
+        'k' => 
+        array (
+            'kartik\\grid\\' => 12,
+            'kartik\\dialog\\' => 14,
+            'kartik\\base\\' => 12,
+        ),
         'f' => 
         array (
             'frontend\\tests\\' => 15,
@@ -145,6 +151,18 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
         'mdm\\admin\\' => 
         array (
             0 => __DIR__ . '/..' . '/mdmsoft/yii2-admin',
+        ),
+        'kartik\\grid\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-grid/src',
+        ),
+        'kartik\\dialog\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-dialog/src',
+        ),
+        'kartik\\base\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-krajee-base/src',
         ),
         'frontend\\tests\\' => 
         array (
@@ -753,6 +771,7 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
         'PharIo\\Manifest\\ManifestLoader' => __DIR__ . '/..' . '/phar-io/manifest/src/ManifestLoader.php',
         'PharIo\\Manifest\\ManifestLoaderException' => __DIR__ . '/..' . '/phar-io/manifest/src/exceptions/ManifestLoaderException.php',
         'PharIo\\Manifest\\ManifestSerializer' => __DIR__ . '/..' . '/phar-io/manifest/src/ManifestSerializer.php',
+        'PharIo\\Manifest\\NoEmailAddressException' => __DIR__ . '/..' . '/phar-io/manifest/src/exceptions/NoEmailAddressException.php',
         'PharIo\\Manifest\\PhpElement' => __DIR__ . '/..' . '/phar-io/manifest/src/xml/PhpElement.php',
         'PharIo\\Manifest\\PhpExtensionRequirement' => __DIR__ . '/..' . '/phar-io/manifest/src/values/PhpExtensionRequirement.php',
         'PharIo\\Manifest\\PhpVersionRequirement' => __DIR__ . '/..' . '/phar-io/manifest/src/values/PhpVersionRequirement.php',

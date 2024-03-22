@@ -48,7 +48,6 @@
       <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
       <path value="$PROJECT_DIR$/vendor/symfony/mime" />
       <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
-      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap5" />
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
       <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
@@ -103,6 +102,10 @@
       <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/vendor/psr/container" />
       <path value="$PROJECT_DIR$/vendor/mdmsoft/yii2-admin" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-krajee-base" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-dialog" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-grid" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap5" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.4">

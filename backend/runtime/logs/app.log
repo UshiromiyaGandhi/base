@@ -1,191 +1,2804 @@
-2024-03-17 19:28:18 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:28:18 \n[trace][application] 0
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:28:21 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:28:21 \n[trace][application] 0
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:28:25 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:28:25 \n[trace][application] 0
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:28:38 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:28:38 \n[trace][application] 0
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:29:12 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:29:12 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:29:15 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:29:15 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:29:34 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:29:34 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:29:43 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:29:43 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:29:48 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:29:48 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:31:12 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:134
-2024-03-17 19:31:12 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:134
-2024-03-17 19:31:19 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:31:19 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:31:22 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:134
-2024-03-17 19:31:22 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:134
-2024-03-17 19:32:02 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:32:02 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:32:02 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:32:23 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:134
-2024-03-17 19:32:28 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:118
-2024-03-17 19:32:28 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:32:28 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:32:37 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:134
-2024-03-17 19:33:06 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:33:10 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:134
-2024-03-17 19:33:14 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:33:43 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:134
-2024-03-17 19:33:57 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:39:06 \n[trace][application] [
-    'available' => [
-        'accessAdmin' => 'permission',
-        'haveActiveShop' => 'permission',
-        'manageAllShop' => 'permission',
-        'manageOwnShop' => 'permission',
-        'penjual' => 'role',
-    ],
-    'assigned' => [
-        'admin' => 'role',
-    ],
-]
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:119
-2024-03-17 19:39:17 \n[trace][application] [
-    'available' => [
-        'accessAdmin' => 'permission',
-        'admin' => 'role',
-        'haveActiveShop' => 'permission',
-        'manageAllShop' => 'permission',
-        'manageOwnShop' => 'permission',
-        'penjual' => 'role',
-    ],
-    'assigned' => [],
-]
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:135
-2024-03-17 19:42:28 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:120
-2024-03-17 19:42:28 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:120
-2024-03-17 19:42:39 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:136
-2024-03-17 19:42:39 \n[trace][application] false
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:136
-2024-03-17 19:42:41 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:218
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:120
-2024-03-17 19:42:41 \n[trace][application] true
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:219
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:120
-2024-03-17 19:50:41 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:211
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\Assignment.php:56
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:117
-2024-03-17 19:50:49 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:211
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\Assignment.php:80
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 19:53:01 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:211
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\Assignment.php:56
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:117
-2024-03-17 19:53:09 \n[trace][application] terpanggildlskjfdsofihdsiofh
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\User.php:211
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\models\Assignment.php:80
-    in D:\Alat\laragon\www\base4\vendor\mdmsoft\yii2-admin\controllers\AssignmentController.php:133
-2024-03-17 22:35:16 \n[trace][application] saveddddd
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:85
-2024-03-17 22:35:19 \n[trace][application] saveddddd
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:85
-2024-03-17 22:39:08 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:86
-2024-03-17 22:41:05 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:86
-2024-03-17 22:50:25 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:86
-2024-03-18 08:59:40 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:89
-2024-03-18 09:16:07 \n[trace][application] haloooooo halo banding
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:170
-2024-03-18 09:17:51 \n[trace][application] haloooooo halo banding
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:171
-2024-03-18 09:17:51 \n[trace][application] [
-    'id' => 1,
+2024-03-21 12:34:18 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:34:18 \n[trace][application] [
+    'id' => 3,
     'sellerId' => 4,
-    'name' => 'tets',
-    'description' => 'asdgasdfg',
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:34:18 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:34:18 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:35:05 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:35:05 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:35:05 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:35:05 \n[trace][application] [
+    '_csrf-backend' => 'pMRHHHkEm9aa2Hk0_PdSQgYxy5ddJnyKrXgwLTN_KgT3kBF7AX7ag-6aPFy2nzQTMlOo-CV8JOD8LmJdWApDaA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:35:05 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:71
+2024-03-21 12:35:05 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:35:05 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:35:05 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:35:05 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:36:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:36:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:36:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:36:27 \n[trace][application] [
+    '_csrf-backend' => 'yjL7nVbrn9zeTCyhOJrOrvk4eLQSH0Hx-s4V_7Aqe4OZZq36LpHeiaoOacly8qj_zVob22pFGZurmEeP218S7w==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:36:27 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:71
+2024-03-21 12:36:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:36:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:36:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:36:27 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:38:01 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:38:01 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:38:01 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:38:01 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:38:05 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:38:05 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:38:05 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:38:05 \n[trace][application] [
+    '_csrf-backend' => 'WooTd0FnUuE6LPBkowl8wn7PIyZX_0Z6FaDifT0y23kJ3kUQOR0TtE5utQzpYRqTSq1ASS-lHhBE9rANVkeyFQ==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:38:05 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:71
+2024-03-21 12:38:05 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:38:05 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:38:05 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:38:05 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:38:10 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:38:10 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:38:10 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:38:10 \n[trace][application] [
+    '_csrf-backend' => 'NqfeL-N1rJjD_S8NrxbzUA6VoK70mkop8LVwrg6RiY9l84hImw_tzbe_amXlfpUBOvfDwYzAEkOh4yLeZeTg4w==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:38:10 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:71
+2024-03-21 12:38:10 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:38:10 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:38:10 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:38:10 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:41:53 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:41:53 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:41:53 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:41:53 \n[trace][application] [
+    '_csrf-backend' => 'HI9xvbhoiLSbTh7w-VeyP39HQdIWRM-mDo5A0YPbwcRP2yfawBLJ4e8MW5izP9RuSyUivW4el8xf2BKh6K6oqA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:41:53 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:41:53 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:41:53 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:41:53 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:41:53 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:42:23 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:42:23 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:42:23 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:42:23 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:42:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:42:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:42:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:42:24 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:42:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:42:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:42:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:42:27 \n[trace][application] [
+    '_csrf-backend' => 'MDT2F3ldBSLxifsIWO1LnQdpDg20g5xUJmTUOXZYrTBjYKBwASdEd4XLvmAShS3MMwttYszZxD53MoZJHS3EXA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => 'blok asu',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:42:27 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:42:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:42:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:42:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:42:27 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:44:43 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:44:43 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:44:43 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:44:43 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:44:55 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:44:55 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:44:55 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:44:55 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:44:59 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:44:59 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:44:59 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:44:59 \n[trace][application] [
+    '_csrf-backend' => 'cQzNUkAMETVYiGNO2xc9hYgRTPwgIVXG1Ubr7qiXeS4iWJs1OHZQYCzKJiaRf1vUvHMvk1h7DayEELmew-IQQg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:44:59 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:44:59 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:44:59 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
     'active' => 0,
 ]
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:172
-2024-03-18 10:20:05 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:89
-2024-03-18 10:20:32 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:89
-2024-03-18 10:21:46 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
-    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:89
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:44:59 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:44:59 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:45:07 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:45:07 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:45:07 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:45:07 \n[trace][application] [
+    '_csrf-backend' => 'Py25XYmpBLGihTxLheT1_nYFPzdlJgj7JLDMbwtHNO9see868dNF5NbHeSPPjJOvQmdcWB18UJF15p4fYDJdgw==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:45:07 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:45:07 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:45:07 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:45:07 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:45:07 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:45:10 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:45:10 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:45:10 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:45:10 \n[trace][application] [
+    '_csrf-backend' => '796ea23TNgBUp6IoflV50jTYO-IWU4Nsn73atbbvMxy8isgMFal3VSDl50A0PR-DALpYjW4J2wbO64jF3ZpacA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:45:10 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:45:10 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:45:10 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:45:10 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:45:10 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:45:11 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:45:11 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:45:11 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:45:11 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:45:18 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:45:18 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:45:18 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:45:18 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:46:01 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:46:01 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:46:01 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:46:01 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:47:05 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:47:05 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:47:05 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:47:05 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:47:35 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:47:35 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:47:35 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:47:35 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:49:29 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:49:29 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:49:29 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:49:29 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:49:33 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:49:33 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:49:33 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:49:33 \n[trace][application] [
+    '_csrf-backend' => 'lxCLSFsUUfOYDbbLcIkRZXttVPqAqClTg7TeLOrxSw3ERN0vI24QpuxP86M64Xc0Tw83lfjycTnS4oxcgYQiYQ==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => 'on',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:49:33 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:49:33 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:49:33 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:49:33 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:49:33 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:49:46 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:49:46 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:49:46 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:49:46 \n[trace][application] [
+    '_csrf-backend' => '0dV2fm5FQzYyGUmR3imnd5jm2i6kLnF9jWz36cvOrSyCgSAZFj8CY0ZbDPmUQcEmrIS5Qdx0KRfcOqWZoLvEQA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => 'on',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:49:46 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:49:46 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:49:46 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:49:46 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:49:46 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:50:18 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:50:18 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:50:18 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:50:18 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:50:20 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:50:20 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:50:20 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:50:20 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:50:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:50:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:50:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:50:24 \n[trace][application] [
+    '_csrf-backend' => '0rNQmvh0JAkaA98t04kpZPpTQSbhP9JFit-TbXbLBYyB5wb9gA5lXG5BmkWZ4U81zjEiSZllii_bicEdHb5s4A==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:50:24 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:50:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:50:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:50:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:50:24 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:50:33 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:50:33 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:50:33 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:50:33 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:50:37 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:50:37 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:50:37 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:50:37 \n[trace][application] [
+    '_csrf-backend' => 'RwlLK3et3IhbMKP1E574nEWnObNajXhPhn5tqKmA3zgUXR1MD9ed3S9y5p1Z9p7NccVa3CLXICXXKD_YwvW2VA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:50:37 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:50:37 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:50:37 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:50:37 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:50:37 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:52:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:52:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:52:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:52:27 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:52:29 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:52:29 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:52:29 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:52:29 \n[trace][application] [
+    '_csrf-backend' => 'sPfUbLo1e1lB2NIc2CnVK-5VzbosvEqC-EHrLfYETwzjo4ILwk86DDWal3SSQbN62jeu1VTmEuipF7ldnXEmYA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:52:29 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:52:29 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:52:29 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:52:29 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:52:29 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:52:32 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:52:32 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:52:32 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:52:32 \n[trace][application] [
+    '_csrf-backend' => 'KTiZxCXZx8bLFQ6nNSF70RoySqqKrNgB_Ssd5IuzY1Z6bM-jXaOGk79XS89_SR2ALlApxfL2gGusfU-U4MYKOg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:52:32 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:52:32 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:52:32 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:52:32 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:52:32 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:53:23 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:53:23 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:53:23 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:53:23 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:53:25 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:53:25 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:53:25 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:53:25 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:53:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:53:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:53:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:53:27 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:53:45 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:53:45 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:53:45 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:53:45 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:54:25 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:54:25 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:54:25 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:54:25 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:54:40 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:54:40 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:54:40 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:54:40 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:55:06 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:55:06 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:55:06 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:55:06 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:55:13 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:55:13 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:55:13 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:55:13 \n[trace][application] [
+    '_csrf-backend' => 'i3FDWF4iBgNnpYn2xFKPX-hQRFHfDHJosuvOxmR4pofYJRU_JlhHVhPnzJ6OOukO3DInPqdWKgLjvZy2Dw3P6w==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:55:13 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:55:13 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:55:13 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:55:13 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:55:13 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:55:18 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:55:18 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:55:18 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:55:18 \n[trace][application] [
+    '_csrf-backend' => 'zixnl9hGOCGs1-38jkB7lwnrOO0yZH0zBRhsQIsbY8KdeDHwoDx5dNiVqJTEKB3GPYlbgko-JVlUTj4w4G4Krg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:55:18 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:55:18 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:55:18 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:55:18 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:55:18 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:55:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:55:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:55:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:55:27 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:56:03 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:56:03 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:56:03 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:56:03 \n[trace][application] [
+    '_csrf-backend' => 'yrPvQ9kHEFEiQoiz9mnZTsrNXWcu2JM0wotIwjs2_ESZ57kkoX1RBFYAzdu8Ab8f_q8-CFaCy16T3RqyUEOVKA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:56:03 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:56:03 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:56:03 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:56:03 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:56:03 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:56:53 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:56:53 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:56:53 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:56:53 \n[trace][application] [
+    '_csrf-backend' => 'doeAG3omr102Z7YT1YCvCd49tlbgwZrUIJ4jFvnoC7Yl09Z8AlzuCEIl83uf6MlY6l_VOZibwr5xyHFmkp1i2g==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:56:53 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:56:53 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:56:53 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:56:53 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:56:53 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:57:19 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:57:19 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:57:19 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:57:19 \n[trace][application] [
+    '_csrf-backend' => 's4hBZwAzmHYfxmoIPPz8Rz_ZTHYpIvGDh9r1IeK1-_3g3BcAeEnZI2uEL2B2lJoWC7svGVF4qenWjKdRicCSkQ==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:57:19 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:57:19 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:57:19 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:57:19 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:57:19 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:58:29 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:58:29 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:58:29 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:58:29 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:58:32 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:58:32 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:58:32 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:58:32 \n[trace][application] [
+    '_csrf-backend' => 'ZZj1e1Pki3su3ha4WTT1_Y9V9avxhx09U0zCepDBzEs2zKMcK57KLlqcU9ATXJOsuzeWxIndRVcCGpAK-7SlJw==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 12:58:32 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 12:58:32 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 12:58:32 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 12:58:32 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 12:58:32 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:00:40 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:00:40 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:00:40 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:00:40 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:00:52 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:00:52 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:00:52 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:00:52 \n[trace][application] [
+    '_csrf-backend' => '6cmTXe80FxmiCOdq8Ua2tRUeOmw8GeCiydigDlXaMLO6ncU6l05WTNZKogK7LtDkIXxZA0RDuMiYjvJ-Pq9Z3w==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:00:52 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:00:52 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:00:52 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:00:52 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:00:52 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:01:04 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:01:04 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:01:04 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:01:04 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:01:08 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:01:08 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:01:08 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:01:08 \n[trace][application] [
+    '_csrf-backend' => 'JI7Rdr5yVToE2xImuCmOqAKz1q4wM9ppQVN3q_OiyQp32ocRxggUb3CZV07yQej5NtG1wUhpggMQBSXbmNegZg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:01:08 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:01:08 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:01:08 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:01:08 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:01:08 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:01:21 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:01:21 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:01:21 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:01:21 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:01:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:01:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:01:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:01:24 \n[trace][application] [
+    '_csrf-backend' => '_oUhYRsKsbbjkOOb9MlPd-kEwnCq6FoaBqWTYvmIQ7at0XcGY3Dw45fSpvO-oSkm3WahH9KyAnBX88ESkv0q2g==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:01:24 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:01:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:01:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:01:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:01:24 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:06:03 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:06:03 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:06:03 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:06:03 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:06:06 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:06:06 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:06:06 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:06:06 \n[trace][application] [
+    '_csrf-backend' => 'oHNF5_jYP60uDkKIiEiViUnYRx0NE_wvE_rWlVmO0_rzJxOAgKJ--FpMB-DCIPPYfbokcnVJpEVCrITlMvu6lg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:06:06 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:06:06 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:06:06 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:06:06 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:06:06 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:06:18 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:06:18 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:06:18 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:06:18 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:06:21 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:06:21 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:06:21 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:06:21 \n[trace][application] [
+    '_csrf-backend' => 'VwRIumMvtzGWehQWeXpzY725yAbnxGL4Ku0Jc-oJ3uUEUB7dG1X2ZOI4UX4zEhUyiduraZ-eOpJ7u1sDgXy3iQ==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => 'on',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:06:21 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:06:21 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:06:21 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:06:21 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:06:21 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:07:22 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:07:22 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:07:22 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:07:22 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:07:26 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:07:26 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:07:26 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:07:26 \n[trace][application] [
+    '_csrf-backend' => 'aAmw3Lg9yLuLhdDxB7PJrOG36geq9K7KC2YBWlRJzRI7Xea7wEeJ7v_HlZlN26_91dWJaNKu9qBaMFMqPzykfg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:07:26 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:07:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:07:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:07:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:07:27 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:07:51 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:07:51 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:07:51 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:07:51 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:07:54 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:07:54 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:07:54 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:07:54 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:07:56 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:07:56 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:07:56 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:07:56 \n[trace][application] [
+    '_csrf-backend' => 'YAEh5HhJykAmtJAsR0L_pwnudWlXrmJ6cg89t3K3qA4zVXeDADOLFVL21UQNKpn2PYwWBi_0OhAjWW_HGcLBYg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:07:56 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:07:56 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:07:56 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:07:56 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:07:56 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:08:38 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:08:38 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:08:38 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:08:38 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:08:40 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:08:40 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:08:40 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:08:40 \n[trace][application] [
+    '_csrf-backend' => 'UJcQqblxtafbJBuyceXjx2IWtYcJKAf0ylO9GAQRyKoDw0bOwQv08q9mXto7jYWWVnTW6HFyX56bBe9ob2Shxg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:08:40 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:08:40 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:08:40 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:08:40 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:08:40 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:08:44 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:08:44 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:08:44 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:08:44 \n[trace][application] [
+    '_csrf-backend' => 'wdPfUn4MpU_om0Z7SCgu2pEM4TlsK9tC-8-pgMOaOseSh4k1BnbkGpzZAxMCQEiLpW6CVhRxgyiqmfvwqO9Tqw==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:08:44 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:08:45 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:08:45 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:08:45 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:08:45 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:08:49 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:08:49 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:08:49 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:08:49 \n[trace][application] [
+    '_csrf-backend' => 'NKpbTFsnK8kERcbtUjCsgQNMWD3fZfPFCvZGQyNSccVn_g0rI11qnHAHg4UYWMrQNy47Uqc_q69boBQzSCcYqQ==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:08:49 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:08:49 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:08:49 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:08:49 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:08:49 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:08:53 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:08:53 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:08:53 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:08:53 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:09:02 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:09:02 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:09:02 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:09:02 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:09:06 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:09:06 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:09:06 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:09:06 \n[trace][application] [
+    '_csrf-backend' => '8-uZSr-WLRxgmpdN5fe5HtLq9Jb6XUnpEDrSR8AEuA2gv88tx-xsSRTY0iWvn99P5oiX-YIHEYNBbIA3q3HRYQ==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:09:06 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:09:06 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:09:06 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:09:06 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:09:06 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:09:15 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:09:15 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:09:15 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:09:15 \n[trace][application] [
+    '_csrf-backend' => 'fnjFOHdipIvjsA5f_WSppi2mtSJDoP45kpO0b2BjKsstLJNfDxjl3pfySze3DM_3GcTWTTv6plPDxeYfCxZDpw==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:09:15 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:09:15 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:09:15 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:09:15 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:09:15 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:09:22 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:09:22 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:09:22 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:09:22 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:09:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:09:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:09:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:09:24 \n[trace][application] [
+    '_csrf-backend' => 'M_Q41Dji8FoqT-2WPJweE8AX4Dyq36AMcnYZKwnPKMBgoG6zQJixD14NqP529HhC9HWDU9KF-GYjIEtbYrpBrA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:09:24 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:09:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:09:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:09:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:09:24 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:10:56 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:10:56 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:10:56 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:10:56 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:11:17 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:11:17 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:11:17 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:11:17 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:11:56 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:11:56 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:11:56 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:11:56 \n[trace][application] [
+    '_csrf-backend' => '5HmLSmnBykEpXfEbEyjbUd5OfFhxRNBJ6ghXe9i7xRK3Ld0tEbuLFF0ftHNZQL0A6iwfNwkeiCO7XgULs86sfg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:11:56 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:11:56 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:11:56 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:11:56 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:11:56 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:00 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:00 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:00 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:00 \n[trace][application] [
+    '_csrf-backend' => 'QMrg--OCJ_R4bulpuXqbgOG-nUIFgxXD9lECFguFhooTnracm_hmoQwsrAHzEv3R1dz-LX3ZTamnB1BmYPDv5g==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:00 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:12:00 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:00 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:00 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:00 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:02 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:02 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:02 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:02 \n[trace][application] [
+    '_csrf-backend' => 'Cd97Bw2kVanwJUI-3opxIhlecrljR7Bwzz9KKVe7MqZaiy1gdd4U_IRnB1aU4hdzLTwR1hsd6BqeaRhZPM5byg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:02 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:12:03 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:03 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:03 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:03 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:04 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:04 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:04 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:04 \n[trace][application] [
+    '_csrf-backend' => 'HYdBZwLGS0-32Ief9BKNToZmC_LIOqOMOQgh4csi4ZNO0xcAerwKGsOawve-eusfsgRonbBg--ZoXnORoFeI_w==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:04 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:12:04 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:04 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:04 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:04 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:06 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:06 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:06 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:06 \n[trace][application] [
+    '_csrf-backend' => '_GN6TKCbR9XCzxB80vJj5YMHuJdkRNuKx8BwnWZtZhWvNywr2OEGgLaNVRSYmgW0t2Xb-Bweg-CWliLtDRgPeQ==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:06 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:12:06 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:06 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:06 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:06 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:07 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:07 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:07 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:07 \n[trace][application] [
+    '_csrf-backend' => '3P4Mslt9zK1GypSIx-BWt9eAWEOM-IrdUqJZnxqa9IyPqlrVIweN-DKI0eCNiDDm4-I7LPSi0rcD9Avvce-d4A==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:07 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:12:07 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:07 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:07 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:07 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:16 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:16 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:16 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:16 \n[trace][application] [
+    '_csrf-backend' => '2j1k382SOVflRnwlLptthZ98XHlOuV7iosKsRcZHYRiJaTK4teh4ApEEOU1k8wvUqx4_FjbjBojzlP41rTIIdA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:12:16 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:12:16 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:12:16 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:12:16 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:12:16 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:15 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:15 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:15 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:15 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:17 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:17 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:17 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:17 \n[trace][application] [
+    '_csrf-backend' => 'SQ29sI8prgHddH3D6i71MVfK-Vq6pANc5SXe0rB417saWevX91PvVKk2OKugRpNgY6iaNcL-Wza0c4yi2w2-1w==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '0',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:17 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:13:17 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:17 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:17 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:17 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:20 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:20 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:20 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:20 \n[trace][application] [
+    '_csrf-backend' => 'eAUvkkKkcmi412xrxHPY7hyoHA-nFoOxZwgUs8t8f0QrUXn1Ot4zPcyVKQOOG76_KMp_YN9M29s2XkbDoAkWKA==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:20 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:13:20 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:20 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:20 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:20 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:23 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:23 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:23 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:23 \n[trace][application] [
+    '_csrf-backend' => 'de9VPMdIf3CQTy-o5eOa4CRhlqsj1_LM3OrHLdl_pS0muwNbvzI-JeQNasCvi_yxEAP1xFuNqqaNvJVdsgrMQQ==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+        'active' => '1',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:23 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:13:23 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:23 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:23 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:23 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:25 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:25 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:25 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:25 \n[trace][application] [
+    '_csrf-backend' => 'NJIWGPdY4Vno12iDvQKT9LC1cXi7xqYO6Tnr_hhzCNpnxkB_jyKgDJyVLev3avWlhNcSF8Oc_mS4b7mOcwZhtg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:25 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:13:25 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:25 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:25 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:25 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:27 \n[trace][application] [
+    '_csrf-backend' => 'QqsNhL-nESPxhc84aOk1HBYGtyw3j1pvW-46eHIqMXYR_1vjx91QdoXHilAigVNNImTUQ0_VAgUKuGgIGV9YGg==',
+    'Product' => [
+        'name' => 'Global Thread T Shirt',
+        'description' => 'Baju T Shirt bergaya programmer ',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:27 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:73
+2024-03-21 13:13:27 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:27 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:27 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:27 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:13:44 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:13:44 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:13:44 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:13:44 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:14:06 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:14:06 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:14:06 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:14:06 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:15:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:15:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:15:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:15:24 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:17:01 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:17:01 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:17:01 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:17:01 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:18:18 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:18:18 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:18:18 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:18:18 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:21:11 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:21:11 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:21:11 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:21:11 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:25:31 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:25:31 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:25:31 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:25:31 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:28:39 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:28:39 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:28:39 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:28:39 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:29:16 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:29:16 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:29:16 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:29:16 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:29:43 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:29:43 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:29:43 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:29:43 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:29:50 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:29:50 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:29:50 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:29:50 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:29:59 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:29:59 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:29:59 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:29:59 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:30:18 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:30:18 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:30:18 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:30:18 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:30:32 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:30:32 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:30:32 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:30:32 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:31:02 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:31:02 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:31:02 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:31:02 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:31:12 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:31:12 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:31:12 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:31:12 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:31:24 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:31:24 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:31:24 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:31:24 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 13:31:36 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 13:31:36 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 13:31:36 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 13:31:36 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:12:40 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:12:40 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:12:40 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:12:40 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:12:46 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:12:46 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:12:46 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:12:46 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:12:51 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:12:51 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:12:51 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:12:51 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:12:54 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:12:54 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:12:54 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:12:54 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:12:58 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:12:58 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:12:58 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:12:58 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:14:26 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:14:26 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:14:26 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:14:26 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:21:11 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:21:11 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:21:11 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:21:11 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:24:43 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:24:43 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:24:43 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:24:43 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:26:40 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:26:40 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:26:40 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:26:40 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:26:56 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:26:56 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:26:56 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:26:56 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:27:07 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:27:07 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:27:07 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:27:07 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:38:35 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:38:35 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:38:35 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:38:35 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:45:00 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:45:00 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:45:00 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:45:00 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:46:40 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:46:40 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:46:40 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:46:40 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:50:57 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:50:57 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:50:57 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:50:57 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:51:21 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:51:21 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:51:21 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:51:21 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:52:08 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:52:08 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:52:08 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:52:08 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:52:15 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:52:15 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:52:15 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:52:15 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:53:50 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:53:50 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:53:50 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:53:50 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-21 14:54:19 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-21 14:54:19 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-21 14:54:19 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-21 14:54:19 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69
+2024-03-22 01:00:02 \n[trace][application] attribut dibawahkuyh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:66
+2024-03-22 01:00:02 \n[trace][application] [
+    'id' => 3,
+    'sellerId' => 4,
+    'name' => 'Global Thread T Shirt',
+    'description' => 'Baju T Shirt bergaya programmer ',
+    'active' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:67
+2024-03-22 01:00:02 \n[trace][application] post dibwahkyuh
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:68
+2024-03-22 01:00:02 \n[trace][application] []
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:69

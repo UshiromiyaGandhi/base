@@ -12,13 +12,13 @@ class AppAsset extends AssetBundle
 {
 	public $depends = [
 		'yii\web\YiiAsset',
-		'yii\bootstrap5\BootstrapAsset',
+//		'yii\bootstrap5\BootstrapAsset',
 	];
 	public $basePath = '@webroot';
 	public $baseUrl = '@web';
 	public $js = [
-		'js/index.js',
-		'js/us-aea-en.js',
+//		'js/index.js',
+//		'js/us-aea-en.js',
 		'js/components/chart-01.js',
 		'js/components/chart-02.js',
 		'js/components/chart-03.js',
@@ -29,7 +29,8 @@ class AppAsset extends AssetBundle
 //		'https://cdn.tailwindcss.com',
 	];
 	public $css = [
-		'css/tw.css',
-		'template1font.css',
+//		'css/tw.css',
+//		'template1font.css',
+		['https://demo.tailadmin.com/style.css']
 	];
 }
