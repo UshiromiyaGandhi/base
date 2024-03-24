@@ -2,21 +2,27 @@
 
 namespace backend\controllers;
 
+use backend\models\ProductImageUploadForm;
 use common\models\Product;
+use common\models\ProductImage;
 use common\models\ProductSearch;
 use common\models\ProductVariant;
 use common\models\ProductVariantSearch;
+use Yii;
 use yii\db\Query;
+use yii\helpers\Json;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 use yii\web\UploadedFile;
+use function Psy\debug;
 
 /**
  * ProductController implements the CRUD actions for Product model.
  */
 class ProductController extends Controller
 {
+
 	/**
 	 * @inheritDoc
 	 */
@@ -62,15 +68,12 @@ class ProductController extends Controller
 		$modelParent = $this->findModel($id);
 		$searchModel = new ProductVariantSearch();
 		$dataProvider = $searchModel->search($this->request->queryParams, $id);
+		$productImages = ProductImage::find()->where(['productid' => $id])->orderBy(['`order`' => 'asc'])->asArray()->all();
 
-		\Yii::debug('attribut dibawahkuyh');
-		\Yii::debug($modelParent->attributes);
-		\Yii::debug('post dibwahkyuh');
-		\Yii::debug(\Yii::$app->request->post());
-		if ($this->request->isPost ) {
+		if ($this->request->isPost) {
 			$modelParent->load($this->request->post());
 			$modelParent->save();
-			\Yii::debug('kesavegksih');
+			Yii::debug('kesavegksih');
 			return $this->redirect(['view', 'id' => $modelParent->id]);
 		}
 
@@ -78,6 +81,7 @@ class ProductController extends Controller
 			'modelParent' => $modelParent,
 			'searchModel' => $searchModel,
 			'dataProvider' => $dataProvider,
+			'productImages' => $productImages
 		]);
 	}
 
@@ -105,13 +109,14 @@ class ProductController extends Controller
 	{
 		$model = ProductVariant::findOne(['id' => $id]);
 		$modelParent = $model->product;
-		if (isset(\Yii::$app->request->post()['ProductVariant']['image'])){
+		if (isset(Yii::$app->request->post()['ProductVariant']['image'])) {
 			$imageFile = UploadedFile::getInstance($model, 'image');
-			\Yii::debug(\Yii::$app->request->post());
+			Yii::debug(Yii::$app->request->post());
 			$fileName = time() . '.' . $imageFile->extension;
 			try {
 				unlink('uploads/productVariantPhoto/' . $model->image);
-			} catch (\Exception $e) {}
+			} catch (\Exception $e) {
+			}
 			$model->image = $fileName;
 			$model->save();
 			$imageFile->saveAs('uploads/productVariantPhoto/' . $fileName);
@@ -128,6 +133,73 @@ class ProductController extends Controller
 		]);
 	}
 
+	public function actionDeleteImage($id)
+	{
+		$model = ProductImage::findOne($id);
+		$idParent = $model->productid;
+		try {
+			unlink('uploads/productPhoto/' . $model->filename);
+		} catch (\Exception $e) {
+		}
+		$productImagesToBeOrdered = ProductImage::find()
+			->where(['productid' => $idParent])
+			->andWhere(['>', 'order', $model->order])
+			->all();
+		foreach ($productImagesToBeOrdered as $productImageToBeOrdered){
+			$productImageToBeOrdered->order = $productImageToBeOrdered->order - 1;
+		}
+		$model->delete();
+		foreach ($productImagesToBeOrdered as $productImageToBeOrdered){
+			$productImageToBeOrdered->save();
+		}
+		$this->redirect(['product/edit-image', 'id' => $idParent]);
+	}
+
+	public function actionEditImage($id)
+	{
+		$model = Product::findOne($id);
+		$productImageUploadForm = new ProductImageUploadForm();
+
+		$productImagesArray = ProductImage::find()
+			->where(['productid' => $model->id])
+			->orderBy(['order' => 'asc'])
+			->asArray()
+			->all();
+
+		if (isset(Yii::$app->request->post()['sortedItems'])) {
+			$newOrder = explode(',', Yii::$app->request->post()['sortedItems']);
+			$productImagesActiveRecord = ProductImage::find()
+				->where(['productid' => $model->id])
+				->orderBy(['order' => 'asc'])
+				->all();
+			try {
+				foreach ($newOrder as $index => $newValue) {
+					$productImagesActiveRecord[$newValue - 1]->order = $index + 1;
+				}
+				foreach ($productImagesActiveRecord as $productImage) {
+					$productImage->save();
+				}
+				$this->refresh();
+			} catch (\Throwable $exception) {
+			}
+		}
+
+		if (isset(Yii::$app->request->post()['ProductImageUploadForm']['imageFile'])) {
+			$productImageUploadForm->productImageId = Yii::$app->request->post()['ProductImageUploadForm']['productImageId'] ?? null;
+			$productImageUploadForm->productId = $model->id;
+			$productImageUploadForm->imageFile = UploadedFile::getInstance($productImageUploadForm, 'imageFile');
+			Yii::debug(Yii::$app->request->post());
+			$productImageUploadForm->upload();
+			$this->refresh();
+		}
+
+		return $this->render('editImage', [
+			'model' => $model,
+			'productImagesArray' => $productImagesArray,
+			'uploadForm' => $productImageUploadForm,
+		]);
+	}
+
 	public function actionCreateVariant($id)
 	{
 		$model = new ProductVariant();
@@ -135,7 +207,7 @@ class ProductController extends Controller
 
 		if ($this->request->isPost) {
 			if ($model->load($this->request->post()) && $model->save()) {
-				\Yii::debug("savedddddwoeifjsdoijfiodsjfdiosj");
+				Yii::debug("savedddddwoeifjsdoijfiodsjfdiosj");
 				return $this->redirect(['view-variant', 'id' => $model->id, 'idParent' => $id]);
 			}
 		} else {
@@ -156,7 +228,7 @@ class ProductController extends Controller
 	public function actionCreate()
 	{
 		$model = new Product();
-		$model->sellerId = \Yii::$app->user->identity->getShop()->id;
+		$model->sellerId = Yii::$app->user->identity->getShop()->id;
 
 		if ($this->request->isPost) {
 			if ($model->load($this->request->post()) && $model->save()) {
@@ -212,12 +284,14 @@ class ProductController extends Controller
 		$model = ProductVariant::findOne($variantId);
 		try {
 			unlink('uploads/productVariantPhoto/' . $model->image);
-		} catch (\Exception $e) {}
+		} catch (\Exception $e) {
+		}
 		$model->image = null;
 		$model->save();
 
 		return $this->redirect(['view-variant', 'id' => $variantId]);
 	}
+
 	public function actionDeleteVariant($id)
 	{
 		$model = ProductVariant::findOne($id);

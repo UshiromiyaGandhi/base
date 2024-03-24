@@ -100,6 +100,8 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/kartik-v/yii2-dialog" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/kartik-v/yii2-grid" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/kartik-v/yii2-krajee-base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/kartik-v/yii2-sortable" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/kartik-v/yii2-sortable-input" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

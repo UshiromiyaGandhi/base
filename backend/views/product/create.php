@@ -13,8 +13,10 @@ $this->params['breadcrumbs'][] = $this->title;
 	class="rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark"
 >
 
-    <?= $this->render('_form', [
-        'model' => $model,
-    ]) ?>
+	<div class="p-7">
+		<?= $this->render('_form', [
+			'model' => $model,
+		]) ?>
+	</div>
 
 </div>

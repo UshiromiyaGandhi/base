@@ -42,6 +42,8 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
         ),
         'k' => 
         array (
+            'kartik\\sortinput\\' => 17,
+            'kartik\\sortable\\' => 16,
             'kartik\\grid\\' => 12,
             'kartik\\dialog\\' => 14,
             'kartik\\base\\' => 12,
@@ -151,6 +153,14 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
         'mdm\\admin\\' => 
         array (
             0 => __DIR__ . '/..' . '/mdmsoft/yii2-admin',
+        ),
+        'kartik\\sortinput\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-sortable-input/src',
+        ),
+        'kartik\\sortable\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-sortable/src',
         ),
         'kartik\\grid\\' => 
         array (

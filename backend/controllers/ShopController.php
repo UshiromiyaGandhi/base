@@ -71,9 +71,8 @@ class ShopController extends Controller
 		}
 
 		if (isset(Yii::$app->request->post()['ShopProfileUploadForm'])) {
-			;
 			$profileUploadForm->imageFile = UploadedFile::getInstance($profileUploadForm, 'imageFile');
-			$profileUploadForm->upload($userModel->shop);
+			$profileUploadForm->upload($shopModel);
 		}
 
 		return $this->render('index', [

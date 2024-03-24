@@ -89,6 +89,7 @@ AppAsset::register($this);
 				<nav>
 					<ul class="tc _o sf yo cg ep">
 						<li><?= Html::a('Home', ['site/index'], ['class' => 'xl', ':class' => "{ 'mk': page === 'home' }"]) ?></li>
+						<li><?= Html::a('Shop', ['shop/index'], ['class' => 'xl', ':class' => "{ 'mk': page === 'shop' }"]) ?></li>
 <!--						<li>--><?php //= Html::a('Tentang', ['site/index', '#' => 'feature'], ['class' => 'xl', ':class' => "{ 'mk': page === 'home' }"]) ?><!--</li>-->
 <!--						<li>--><?php //= Html::a('Produk', ['site/index'], ['class' => 'xl', ':class' => "{ 'mk': page === 'home' }"]) ?><!--</li>-->
 <!--						<li>--><?php //= Html::a('Support', ['site/index'], ['class' => 'xl', ':class' => "{ 'mk': page === 'home' }"]) ?><!--</li>-->
@@ -186,13 +187,11 @@ AppAsset::register($this);
 	<main
 		role="main"
 		class="flex-shrink-0">
-		<div class="container">
 			<?= Breadcrumbs::widget([
 				'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
 			]) ?>
 			<?= Alert::widget() ?>
 			<?= $content ?>
-		</div>
 	</main>
 
 	<footer class="footer mt-auto py-3 text-muted">

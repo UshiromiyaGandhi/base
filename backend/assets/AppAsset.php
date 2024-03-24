@@ -26,11 +26,13 @@ class AppAsset extends AssetBundle
 		'js/components/map-01.js',
 		['https://cdn.jsdelivr.net/npm/@alpinejs/persist@3.x.x/dist/cdn.min.js', ['position' => View::POS_END, 'defer' => true, 'async' => true]],
 		['https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js', ['position' => View::POS_END, 'defer' => true, 'async' => true]],
-//		'https://cdn.tailwindcss.com',
+//		['https://demo.tailadmin.com/bundle.js']
+//		['https://cdn.tailwindcss.com'],
 	];
 	public $css = [
-//		'css/tw.css',
-//		'template1font.css',
-		['https://demo.tailadmin.com/style.css']
+		['https://demo.tailadmin.com/style.css'],
+//		['https://cdn.tailwindcss.com'],
+		'css/tw.css',
+		'template1font.css',
 	];
 }

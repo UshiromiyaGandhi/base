@@ -12,11 +12,13 @@ use yii\widgets\DetailView;
 /** @var common\models\Product $modelParent */
 /** @var common\models\ProductSearch $searchModel */
 /** @var yii\data\ActiveDataProvider $dataProvider */
+/** @var \common\models\ProductImage[] $productImages */
 
 $this->title = $modelParent->name;
 $this->params['breadcrumbs'][] = ['label' => 'Products', 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 \yii\web\YiiAsset::register($this);
+$this->registerJsFile('https://demo.tailadmin.com/bundle.js');
 ?>
 <div class="flex flex-col gap-10">
 	<div class="grid grid-cols-5 gap-8">
@@ -40,9 +42,7 @@ $this->params['breadcrumbs'][] = $this->title;
 			</div>
 		</div>
 		<div class="col-span-5 xl:col-span-2">
-			<div
-				class="rounded-sm h-full border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark"
-			>
+			<div class="rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark">
 				<div
 					class="border-b border-stroke px-7 py-4 dark:border-strokedark"
 				>
@@ -50,51 +50,57 @@ $this->params['breadcrumbs'][] = $this->title;
 						Images
 					</h3>
 				</div>
-				<div class="p-7">
-
-					<div>
-						<label class="mb-3 block text-sm font-medium text-black dark:text-white">
-							Select Option
-						</label>
+				<div class="p-4 sm:p-6 xl:p-10 ">
+					<div
+						class="swiper carouselThree swiper-initialized swiper-horizontal swiper-backface-hidden"
+					>
 						<div
-							x-data="{ isOptionSelected: false }"
-							class="relative z-20 bg-white dark:bg-form-input">
-							<select
-								class="relative z-20 w-full appearance-none rounded border border-stroke bg-transparent py-3 pl-5 pr-12 outline-none transition focus:border-primary active:border-primary dark:border-form-strokedark dark:bg-form-input text-black dark:text-white"
-								:class="isOptionSelected &amp;&amp; 'text-black dark:text-white'"
-								@change="isOptionSelected = true">
-								<option
-									value=""
-									class="text-body">Option 1
-								</option>
-								<option
-									value=""
-									class="text-body">Option 2
-								</option>
-								<option
-									value=""
-									class="text-body">Option 3
-								</option>
-							</select>
-							<span class="absolute right-4 top-1/2 z-20 -translate-y-1/2">
-								<svg
-									width="24"
-									height="24"
-									viewBox="0 0 24 24"
-									fill="none"
-									xmlns="http://www.w3.org/2000/svg">
-									<g opacity="0.8">
-										<path
-											fill-rule="evenodd"
-											clip-rule="evenodd"
-											d="M5.29289 8.29289C5.68342 7.90237 6.31658 7.90237 6.70711 8.29289L12 13.5858L17.2929 8.29289C17.6834 7.90237 18.3166 7.90237 18.7071 8.29289C19.0976 8.68342 19.0976 9.31658 18.7071 9.70711L12.7071 15.7071C12.3166 16.0976 11.6834 16.0976 11.2929 15.7071L5.29289 9.70711C4.90237 9.31658 4.90237 8.68342 5.29289 8.29289Z"
-											fill="#637381"></path>
-									</g>
-								</svg>
-							</span>
+							class="swiper-wrapper "
+							style="transition-duration: 0ms;">
+							<?php
+							foreach ($productImages as $productImage) {
+								echo '<div
+								class="swiper-slide">
+								<img
+									class="object-cover w-full aspect-video"
+									src="uploads/productPhoto/'.$productImage['filename'] .  '"
+									alt="carousel">
+							</div>';
+							}
+							?>
+
+						</div>
+						<div class="swiper-button-next">
+							<svg
+								class="fill-current"
+								width="12"
+								height="20"
+								viewBox="0 0 12 20"
+								fill="none"
+								xmlns="http://www.w3.org/2000/svg">
+								<path
+									d="M1.75938 19.4875C1.53438 19.4875 1.34687 19.4125 1.15937 19.2625C0.821875 18.925 0.821875 18.4 1.15937 18.0625L9.03437 9.99998L1.15937 1.97498C0.821875 1.63748 0.821875 1.11248 1.15937 0.774976C1.49687 0.437476 2.02187 0.437476 2.35937 0.774976L10.8344 9.39997C11.1719 9.73748 11.1719 10.2625 10.8344 10.6L2.35937 19.225C2.20937 19.375 1.98438 19.4875 1.75938 19.4875Z"
+									fill=""></path>
+							</svg>
+						</div>
+						<div class="swiper-button-prev">
+							<svg
+								class="fill-current"
+								width="12"
+								height="20"
+								viewBox="0 0 12 20"
+								fill="none"
+								xmlns="http://www.w3.org/2000/svg">
+								<path
+									d="M10.2344 19.4875C10.0094 19.4875 9.78438 19.4125 9.63437 19.225L1.15937 10.6C0.821875 10.2625 0.821875 9.73748 1.15937 9.39997L9.63437 0.774976C9.97188 0.437476 10.4969 0.437476 10.8344 0.774976C11.1719 1.11248 11.1719 1.63748 10.8344 1.97498L2.95937 9.99998L10.8719 18.025C11.2094 18.3625 11.2094 18.8875 10.8719 19.225C10.6469 19.375 10.4594 19.4875 10.2344 19.4875Z"
+									fill=""></path>
+							</svg>
 						</div>
 					</div>
+					<br>
+					<?= Html::a('Edit Images', ['product/edit-image', 'id' => $modelParent->id], ['class' => 'bg-primary flex justify-center rounded px-6 py-2 font-medium text-gray hover:bg-opacity-90']) ?>
 				</div>
+
 			</div>
 		</div>
 	</div>

@@ -32,7 +32,7 @@ class ProductVariantImageUpladForm extends Model
 		} catch (\Exception $e) {}
 		$productVariant->image = $fileName;
 		$productVariant->save();
-		$this->imageFile->saveAs('uploads/profilephoto/' . $fileName);
+		$this->imageFile->saveAs('uploads/productVariantPhoto/' . $fileName);
 	}
 
 }

@@ -3,7 +3,7 @@
         'name' => 'yiisoft/yii2-app-advanced',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '9727ad9542ee1b0f9abc3c225ad926e33506d8da',
+        'reference' => 'f2cc68037ab3709f838154763ab01e71c05c7f55',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -241,6 +241,28 @@
             'type' => 'yii2-extension',
             'install_path' => __DIR__ . '/../kartik-v/yii2-krajee-base',
             'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'kartik-v/yii2-sortable' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '5b1631ef2aa4d79e01867d83ef1d1e3f8d12a41d',
+            'type' => 'yii2-extension',
+            'install_path' => __DIR__ . '/../kartik-v/yii2-sortable',
+            'aliases' => array(
+                0 => '1.2.x-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'kartik-v/yii2-sortable-input' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b5f09f5e82a453194a59352466abccedf87c2191',
+            'type' => 'yii2-extension',
+            'install_path' => __DIR__ . '/../kartik-v/yii2-sortable-input',
+            'aliases' => array(
+                0 => '1.2.x-dev',
+            ),
             'dev_requirement' => false,
         ),
         'masterminds/html5' => array(
@@ -807,7 +829,7 @@
         'yiisoft/yii2-app-advanced' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '9727ad9542ee1b0f9abc3c225ad926e33506d8da',
+            'reference' => 'f2cc68037ab3709f838154763ab01e71c05c7f55',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

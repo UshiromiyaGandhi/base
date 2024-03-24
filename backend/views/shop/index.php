@@ -271,8 +271,7 @@ $this->params['breadcrumbs'][] = 'Update';
 						'class' => 'absolute inset-0 z-50 m-0 h-full w-full cursor-pointer p-0 opacity-0 outline-none',
 						'accept' => 'image/*'
 					],
-					'template' => '
-<div
+					'template' => '<div
 	id="FileUpload"
 	class="relative mb-5.5 block w-full cursor-pointer appearance-none rounded border border-dashed border-primary bg-gray px-4 py-4 dark:bg-meta-4 sm:py-7.5"
 >
@@ -321,8 +320,7 @@ $this->params['breadcrumbs'][] = 'Update';
 			(max, 800 X 800px)
 		</p>
 	</div>
-</div>
-'
+</div>'
 				])->fileInput() ?>
 
 				<div class="flex justify-end gap-4.5">
