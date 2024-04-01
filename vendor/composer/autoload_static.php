@@ -48,10 +48,6 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
             'kartik\\dialog\\' => 14,
             'kartik\\base\\' => 12,
         ),
-        'j' => 
-        array (
-            'jamband\\schemadump\\' => 19,
-        ),
         'f' => 
         array (
             'frontend\\tests\\' => 15,
@@ -177,10 +173,6 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
         'kartik\\base\\' => 
         array (
             0 => __DIR__ . '/..' . '/kartik-v/yii2-krajee-base/src',
-        ),
-        'jamband\\schemadump\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/jamband/yii2-schemadump/src',
         ),
         'frontend\\tests\\' => 
         array (
