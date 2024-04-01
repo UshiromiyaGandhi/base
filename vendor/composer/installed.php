@@ -3,7 +3,7 @@
         'name' => 'yiisoft/yii2-app-advanced',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'f2cc68037ab3709f838154763ab01e71c05c7f55',
+        'reference' => 'cd248fa180e6ddfe0fe8f81429c4388395e6a7b4',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,40 +29,28 @@
             'dev_requirement' => false,
         ),
         'bower-asset/inputmask' => array(
-            'pretty_version' => '3.3.11',
-            'version' => '3.3.11.0',
-            'reference' => '5e670ad62f50c738388d4dcec78d2888505ad77b',
-            'type' => 'bower-asset',
-            'install_path' => __DIR__ . '/../bower-asset/inputmask',
-            'aliases' => array(),
             'dev_requirement' => false,
+            'provided' => array(
+                0 => '*',
+            ),
         ),
         'bower-asset/jquery' => array(
-            'pretty_version' => '3.7.1',
-            'version' => '3.7.1.0',
-            'reference' => 'fde1f76e2799dd877c176abde0ec836553246991',
-            'type' => 'bower-asset',
-            'install_path' => __DIR__ . '/../bower-asset/jquery',
-            'aliases' => array(),
             'dev_requirement' => false,
+            'provided' => array(
+                0 => '*',
+            ),
         ),
         'bower-asset/punycode' => array(
-            'pretty_version' => 'v1.3.2',
-            'version' => '1.3.2.0',
-            'reference' => '38c8d3131a82567bfef18da09f7f4db68c84f8a3',
-            'type' => 'bower-asset',
-            'install_path' => __DIR__ . '/../bower-asset/punycode',
-            'aliases' => array(),
             'dev_requirement' => false,
+            'provided' => array(
+                0 => '*',
+            ),
         ),
         'bower-asset/yii2-pjax' => array(
-            'pretty_version' => '2.0.8',
-            'version' => '2.0.8.0',
-            'reference' => 'a9298d57da63d14a950f1b94366a864bc62264fb',
-            'type' => 'bower-asset',
-            'install_path' => __DIR__ . '/../bower-asset/yii2-pjax',
-            'aliases' => array(),
             'dev_requirement' => false,
+            'provided' => array(
+                0 => '*',
+            ),
         ),
         'cebe/markdown' => array(
             'pretty_version' => '1.2.1',
@@ -213,6 +201,17 @@
             'install_path' => __DIR__ . '/../guzzlehttp/psr7',
             'aliases' => array(),
             'dev_requirement' => true,
+        ),
+        'jamband/yii2-schemadump' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'f3c1d755bb7f274c52d94ed0d6b284046ca4c22d',
+            'type' => 'yii2-extension',
+            'install_path' => __DIR__ . '/../jamband/yii2-schemadump',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
         ),
         'kartik-v/yii2-dialog' => array(
             'pretty_version' => 'v1.0.6',
@@ -829,7 +828,7 @@
         'yiisoft/yii2-app-advanced' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'f2cc68037ab3709f838154763ab01e71c05c7f55',
+            'reference' => 'cd248fa180e6ddfe0fe8f81429c4388395e6a7b4',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

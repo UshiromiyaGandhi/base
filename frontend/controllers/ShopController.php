@@ -2,11 +2,16 @@
 
 namespace frontend\controllers;
 
+use backend\models\ShopQrisUploadForm;
+use common\models\Product;
+use common\models\ProductImage;
 use common\models\Shop;
+use frontend\models\CartForm;
 use frontend\models\ResendVerificationEmailForm;
 use frontend\models\VerifyEmailForm;
 use Yii;
 use yii\base\InvalidArgumentException;
+use yii\helpers\Json;
 use yii\web\BadRequestHttpException;
 use yii\web\Controller;
 use yii\filters\VerbFilter;
@@ -16,6 +21,7 @@ use frontend\models\PasswordResetRequestForm;
 use frontend\models\ResetPasswordForm;
 use frontend\models\SignupForm;
 use frontend\models\ContactForm;
+use yii\web\UploadedFile;
 
 /**
  * Site controller
@@ -81,15 +87,30 @@ class ShopController extends Controller
 
 	public function actionViewProduct($id)
 	{
+//		$shopQrisUploadForm = new ShopQrisUploadForm();
+//		$shopQrisUploadForm->shopId = $id;
 		return $this->render('viewProduct', [
-			'model' => Shop::findOne($id)
+			'model' => Product::findOne($id),
+//			'productImages' => ProductImage::findAll(['productid' => $id])
+			'productImages' => ProductImage::find()->where(['productid' => $id])->orderBy('order')->all(),
+//			'shopQrisUploadForm' => $shopQrisUploadForm
+
 		]);
 	}
 
 	public function actionUploadProduct($id)
 	{
+		$cartForm = new CartForm();
+		if ($this->request->isPost){
+			$imageFile = UploadedFile::getInstance($cartForm, 'buktiPembayaran');
+			$cartForm->load(Yii::$app->request->post());
+			$cartForm->buktiPembayaran = $imageFile;
+			$cartForm->save($id);
+			$this->redirect(['/shop']);
+		}
 		return $this->render('uploadProduct', [
-			'model' => Shop::findOne($id)
+			'model' => Product::findOne($id),
+			'cartForm' => $cartForm
 		]);
 	}
 

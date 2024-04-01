@@ -82,7 +82,6 @@ $this->params['breadcrumbs'][] = $this->title;
 		</div>
 	</div>
 	<div class="mt-6 gap-7.5">
-
 		<?php
 		$productImages = [];
 		foreach ($productImagesArray as $productImage) {

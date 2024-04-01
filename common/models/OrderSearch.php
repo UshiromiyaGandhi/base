@@ -56,11 +56,20 @@ class OrderSearch extends Order
             return $dataProvider;
         }
 
-        // grid filtering conditions
+
+//		$query
+//			->innerJoin('order_item', '`order`.id = `order_item`.orderid')
+//			->innerJoin('product_variant', '`order_item`.productvariantid = `product_variant`.id')
+//			->innerJoin('product', '`product_variant`.productid = `product`.id');
+
+
         $query->andFilterWhere([
             'id' => $this->id,
         ]);
 
+//	    $query->andFilterWhere([ 'or',
+//			'product.sellerid' => \Yii::$app->user->identity->shop->id,
+//		]);
         $query->andFilterWhere(['like', 'phonenum', $this->phonenum])
             ->andFilterWhere(['like', 'address', $this->address]);
 

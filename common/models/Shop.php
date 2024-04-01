@@ -12,6 +12,7 @@ use Yii;
  * @property string|null $name
  * @property string|null $description
  * @property string|null $profileimage
+ * @property string|null $qrisimage
  * @property int $active
  *
  * @property Product[] $products

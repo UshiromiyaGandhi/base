@@ -40,7 +40,8 @@
     "codeception/module-yii2": "^1.1",
     "codeception/module-filesystem": "^3.0 || ^2.0 || ^1.1",
     "codeception/verify": "^3.0 || ^2.2",
-    "symfony/browser-kit": "^6.0 || >=2.7 <=4.2.4"
+    "symfony/browser-kit": "^6.0 || >=2.7 <=4.2.4",
+    "jamband/yii2-schemadump": "dev-main"
   },
   "autoload-dev": {
     "psr-4": {

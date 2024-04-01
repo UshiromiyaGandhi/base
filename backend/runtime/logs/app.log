@@ -6132,3 +6132,669 @@
     ],
 ]
     in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:191
+2024-03-24 10:45:58 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:210
+2024-03-24 10:46:14 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:76
+2024-03-24 10:47:00 \n[trace][application] [
+    '_csrf-backend' => '1M4uhcK0qtrZr5opkx8_6x-uewUSQTm1LS0Gclf3nxW_vmr1idPwvrr_0lDjcHeKa-AzfHgLbt8eVGdLLr3sdA==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:191
+2024-03-24 10:53:33 \n[trace][application] [
+    '_csrf-backend' => '0ncZW9tIQBEWkyxH4AUTuEj9v5gOPpFbPrEcUU2zCe65B10rkC8adXXDZD6QalvZPLP34WR0xjENyH1oNPl6jw==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '60',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:191
+2024-03-24 10:54:02 \n[trace][application] [
+    '_csrf-backend' => 'zrGIwxpCjHYsqhDpdFqVsrA0to4ZiB-axGuroSekMFulwcyzUSXWEk_6WJAENd3TxHr-93PCSPD3EsqYXu5DOg==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:191
+2024-03-24 10:54:14 \n[trace][application] [
+    '_csrf-backend' => '-ggsWFhBfEnWmQmAT6Q9er8_DMFwYZ0NG-fwqhMo0gOReGgoEyYmLbXJQfk_y3Uby3FEuBorymconpGTamKhYg==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '61',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:191
+2024-03-24 10:55:35 \n[trace][application] [
+    '_csrf-backend' => '9UMGt9qel9g5ypRsyeJl77lOzzIqnwwliR3Iu_pBEO-eM0LHkfnNvFqa3BW5jS2OzQCHS0DVW0-6ZKmCgwtjjg==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:192
+2024-03-24 10:55:48 \n[trace][application] [
+    '_csrf-backend' => 'mgntiF4Y-nYwfStwOkieE-xmy-OHJJUrRPBaIyLZXRDxean4FX-gElMtYwlKJ9ZymCiDmu1uwkF3iTsaW5MucQ==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '61',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:192
+2024-03-24 10:56:22 \n[trace][application] [
+    '_csrf-backend' => 'TQjxHQxCFu-isQ8RdDKyPwHmxbipicjEn7_keGaDOGQmeLVtRyVMi8HhR2gEXfpedaiNwcPDn66sxoVBH8lLBQ==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '61',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 10:56:30 \n[trace][application] [
+    '_csrf-backend' => 'Y_Eb1vQJVlgiZm-duu1n08z3AurE6ssCtVc1O_p4TuYIgV-mv24MPEE2J-TKgi-yuLlKk66gnGiGLlQCgzI9hw==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '61',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 10:56:37 \n[trace][application] [
+    '_csrf-backend' => 'XWLJR99_a5Ks4JxqBSIMCRnXNp950Jpv_issTNdGpsU2Eo03lBgx9s-w1BN1TURobZl-5hOazQXNUk11rgzVpA==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '61',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 10:56:45 \n[trace][application] [
+    '_csrf-backend' => '1fhQoMb3bohYJAohBmPM3KEsI4A3DmjKHWSCpoMkA3e-iBTQjZA07Dt0Qlh2DIS91WJr-V1EP6AuHeOf-m5wFg==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '60',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 10:56:57 \n[trace][application] [
+    '_csrf-backend' => 'Mb2uT12P69sbwxz9aDIjaLEgML-K1HlDj4fJCG_bL3hazeo_Fuixv3iTVIQYXWsJxW54xuCeLim8_qgxFpFcGQ==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '62',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 11:04:58 \n[trace][application] [
+    '_csrf-backend' => 'cVfisAhk1S1IUtjT69vgxTl1W9CjW5ClfwgDyZ2aguUaJ6bAQwOPSSsCkKqbtKikTTsTqckRx89McWLw5NDxhA==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '62',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 11:07:55 \n[trace][application] [
+    '_csrf-backend' => 'kaVnBjrZDxgs-6oPLgXNokkjmTDZLaWJm2a2qxzGCrz61SN2cb5VfE-r4nZeaoXDPW3RSbNn8uOoH9eSZYx53Q==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '60',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 11:08:56 \n[trace][application] [
+    '_csrf-backend' => '1LNmJsJbOIbTDo8MitdT90RGx3Bi1dmhZ1OMpOIYhLu_wyJWiTxi4rBex3X6uBuWMAiPCQifjstUKu2dm1L32g==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '61',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 11:10:15 \n[trace][application] [
+    '_csrf-backend' => 'Whqmns93Vt22bGyiwwkKEyVEA1X7ta78UvjRVKri_0QxauLuhBAMudU8JNuzZkJyUQpLLJH_-ZZhgbBt06iMJQ==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '62',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 11:10:31 \n[trace][application] [
+    '_csrf-backend' => 'nGkp41YypkRWaleT8rRaoa1DDAzpEn2im9IkvC6BSz73GW2THVX8IDU6H-qC2xLA2Q1EdYNYKsioq0WFV8s4Xw==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+        'productImageId' => '60',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-24 11:10:57 \n[trace][application] [
+    '_csrf-backend' => 'QBSYQ33CHfdbqWSroTBpI92OdJmSb67dZSTNKfmX-X0rZNwzNqVHkzj5LNLRXyFCqcA84Pgl-bdWXawQgN2KHA==',
+    'ProductVariant' => [
+        'image' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:114
+2024-03-24 11:26:05 \n[trace][application] unserialize('O:18:"yii\\db\\ActiveQuery":33:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:6:"select";N;s:12:"selectOption";N;s:8:"distinct";b:0;s:4:"from";N;s:7:"groupBy";N;s:4:"join";a:3:{i:0;a:3:{i:0;s:10:"INNER JOIN";i:1;s:10:"order_item";i:2;s:0:"";}i:1;a:3:{i:0;s:10:"INNER JOIN";i:1;s:15:"product_variant";i:2;s:0:"";}i:2;a:3:{i:0;s:10:"INNER JOIN";i:1;s:7:"product";i:2;s:0:"";}}s:6:"having";N;s:5:"union";N;s:11:"withQueries";N;s:6:"params";a:0:{}s:18:"queryCacheDuration";N;s:20:"queryCacheDependency";N;s:5:"where";N;s:5:"limit";N;s:6:"offset";N;s:7:"orderBy";N;s:7:"indexBy";N;s:16:"emulateExecution";b:0;s:3:"sql";N;s:2:"on";N;s:8:"joinWith";N;s:10:"modelClass";s:19:"common\\models\\Order";s:4:"with";N;s:7:"asArray";N;s:8:"multiple";N;s:12:"primaryModel";N;s:4:"link";N;s:3:"via";N;s:9:"inverseOf";N;s:26:"' . "\0" . 'yii\\db\\ActiveQuery' . "\0" . 'viaMap";N;}')
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:69
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:26:25 \n[trace][application] [
+    [
+        'id' => 2,
+        'phonenum' => '111111111111',
+        'address' => 'Ruang A2.8',
+        'processed' => 0,
+    ],
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:69
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:27:02 \n[trace][application] [
+    [
+        'id' => 2,
+        'phonenum' => '111111111111',
+        'address' => 'Ruang A2.8',
+        'processed' => 0,
+    ],
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:70
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:28:38 \n[trace][application] unserialize('O:27:"yii\\data\\ActiveDataProvider":12:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";N;s:2:"id";N;s:32:"' . "\0" . 'yii\\data\\BaseDataProvider' . "\0" . '_sort";O:13:"yii\\data\\Sort":11:{s:15:"enableMultiSort";b:0;s:10:"attributes";a:4:{s:2:"id";a:2:{s:3:"asc";a:1:{s:2:"id";i:4;}s:4:"desc";a:1:{s:2:"id";i:3;}}s:8:"phonenum";a:2:{s:3:"asc";a:1:{s:8:"phonenum";i:4;}s:4:"desc";a:1:{s:8:"phonenum";i:3;}}s:7:"address";a:2:{s:3:"asc";a:1:{s:7:"address";i:4;}s:4:"desc";a:1:{s:7:"address";i:3;}}s:9:"processed";a:2:{s:3:"asc";a:1:{s:9:"processed";i:4;}s:4:"desc";a:1:{s:9:"processed";i:3;}}}s:9:"sortParam";s:4:"sort";s:12:"defaultOrder";N;s:5:"route";N;s:9:"separator";s:1:",";s:6:"params";N;s:10:"urlManager";N;s:9:"sortFlags";i:0;s:10:"modelClass";s:19:"common\\models\\Order";s:31:"' . "\0" . 'yii\\data\\Sort' . "\0" . '_attributeOrders";a:0:{}}s:38:"' . "\0" . 'yii\\data\\BaseDataProvider' . "\0" . '_pagination";O:19:"yii\\data\\Pagination":12:{s:9:"pageParam";s:4:"page";s:13:"pageSizeParam";s:8:"per-page";s:14:"forcePageParam";b:1;s:5:"route";N;s:6:"params";N;s:10:"urlManager";N;s:12:"validatePage";b:1;s:10:"totalCount";i:48;s:15:"defaultPageSize";i:20;s:13:"pageSizeLimit";a:2:{i:0;i:1;i:1;i:50;}s:30:"' . "\0" . 'yii\\data\\Pagination' . "\0" . '_pageSize";i:20;s:26:"' . "\0" . 'yii\\data\\Pagination' . "\0" . '_page";i:0;}s:32:"' . "\0" . 'yii\\data\\BaseDataProvider' . "\0" . '_keys";a:2:{i:0;i:2;i:1;i:1;}s:34:"' . "\0" . 'yii\\data\\BaseDataProvider' . "\0" . '_models";a:2:{i:0;O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}i:1;O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}}s:38:"' . "\0" . 'yii\\data\\BaseDataProvider' . "\0" . '_totalCount";i:48;s:5:"query";O:18:"yii\\db\\ActiveQuery":33:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:6:"select";N;s:12:"selectOption";N;s:8:"distinct";b:0;s:4:"from";N;s:7:"groupBy";N;s:4:"join";a:3:{i:0;a:3:{i:0;s:10:"INNER JOIN";i:1;s:10:"order_item";i:2;s:0:"";}i:1;a:3:{i:0;s:10:"INNER JOIN";i:1;s:15:"product_variant";i:2;s:0:"";}i:2;a:3:{i:0;s:10:"INNER JOIN";i:1;s:7:"product";i:2;s:0:"";}}s:6:"having";N;s:5:"union";N;s:11:"withQueries";N;s:6:"params";a:0:{}s:18:"queryCacheDuration";N;s:20:"queryCacheDependency";N;s:5:"where";N;s:5:"limit";N;s:6:"offset";N;s:7:"orderBy";N;s:7:"indexBy";N;s:16:"emulateExecution";b:0;s:3:"sql";N;s:2:"on";N;s:8:"joinWith";N;s:10:"modelClass";s:19:"common\\models\\Order";s:4:"with";N;s:7:"asArray";N;s:8:"multiple";N;s:12:"primaryModel";N;s:4:"link";N;s:3:"via";N;s:9:"inverseOf";N;s:26:"' . "\0" . 'yii\\db\\ActiveQuery' . "\0" . 'viaMap";N;}s:3:"key";N;s:2:"db";N;}')
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:28:58 \n[trace][application] unserialize('O:18:"yii\\db\\ActiveQuery":33:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:6:"select";N;s:12:"selectOption";N;s:8:"distinct";b:0;s:4:"from";N;s:7:"groupBy";N;s:4:"join";a:3:{i:0;a:3:{i:0;s:10:"INNER JOIN";i:1;s:10:"order_item";i:2;s:0:"";}i:1;a:3:{i:0;s:10:"INNER JOIN";i:1;s:15:"product_variant";i:2;s:0:"";}i:2;a:3:{i:0;s:10:"INNER JOIN";i:1;s:7:"product";i:2;s:0:"";}}s:6:"having";N;s:5:"union";N;s:11:"withQueries";N;s:6:"params";a:0:{}s:18:"queryCacheDuration";N;s:20:"queryCacheDependency";N;s:5:"where";N;s:5:"limit";N;s:6:"offset";N;s:7:"orderBy";N;s:7:"indexBy";N;s:16:"emulateExecution";b:0;s:3:"sql";N;s:2:"on";N;s:8:"joinWith";N;s:10:"modelClass";s:19:"common\\models\\Order";s:4:"with";N;s:7:"asArray";N;s:8:"multiple";N;s:12:"primaryModel";N;s:4:"link";N;s:3:"via";N;s:9:"inverseOf";N;s:26:"' . "\0" . 'yii\\db\\ActiveQuery' . "\0" . 'viaMap";N;}')
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:29:22 \n[trace][application] [
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:29:45 \n[trace][application] [
+    [
+        'id' => 2,
+        'phonenum' => '111111111111',
+        'address' => 'Ruang A2.8',
+        'processed' => 0,
+    ],
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:29:56 \n[trace][application] [
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:30:44 \n[trace][application] [
+    'id' => 2,
+    'phonenum' => '111111111111',
+    'address' => 'Ruang A2.8',
+    'processed' => 0,
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:17
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:30:44 \n[trace][application] [
+    'id' => 1,
+    'phonenum' => '000000000000',
+    'address' => 'Ruang A2.7',
+    'processed' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:17
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:40:53 \n[trace][application] [
+    'id' => 1,
+    'phonenum' => '000000000000',
+    'address' => 'Ruang A2.7',
+    'processed' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:17
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:42:57 \n[trace][application] [
+    'id' => 1,
+    'phonenum' => '000000000000',
+    'address' => 'Ruang A2.7',
+    'processed' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:17
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:43:08 \n[trace][application] [
+    'id' => 1,
+    'phonenum' => '000000000000',
+    'address' => 'Ruang A2.7',
+    'processed' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:17
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:44:49 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:70
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:45:05 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:70
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:45:06 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:70
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:45:45 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:67
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:45:46 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:67
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:45:48 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:67
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:45:50 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:67
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:45:52 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:67
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:45:53 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:67
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:46:13 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:61
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:46:21 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+    [
+        'id' => 2,
+        'phonenum' => '111111111111',
+        'address' => 'Ruang A2.8',
+        'processed' => 0,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:59
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:48:38 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:64
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:48:39 \n[trace][application] [
+    [
+        'id' => 1,
+        'phonenum' => '000000000000',
+        'address' => 'Ruang A2.7',
+        'processed' => 1,
+    ],
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:64
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:50:51 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:64
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:50:53 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:64
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:50:59 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:64
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 11:50:59 \n[trace][application] [
+    'id' => 1,
+    'phonenum' => '000000000000',
+    'address' => 'Ruang A2.7',
+    'processed' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:17
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 11:54:27 \n[trace][application] [
+    'id' => 1,
+    'phonenum' => '000000000000',
+    'address' => 'Ruang A2.7',
+    'processed' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:17
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 12:06:02 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:06:02 \n[trace][application] [
+    'id' => 1,
+    'phonenum' => '000000000000',
+    'address' => 'Ruang A2.7',
+    'processed' => 1,
+]
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:17
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 12:06:27 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:06:32 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:06:49 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:06:52 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:07:16 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:07:26 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:07:33 \n[trace][application] null
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:07:45 \n[trace][application] [
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:07:59 \n[trace][application] [
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:08:05 \n[trace][application] [
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:08:12 \n[trace][application] [
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:08:13 \n[trace][application] [
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:08:19 \n[trace][application] [
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:1;s:8:"phonenum";s:12:"000000000000";s:7:"address";s:10:"Ruang A2.7";s:9:"processed";i:1;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+    unserialize('O:19:"common\\models\\Order":10:{s:27:"' . "\0" . 'yii\\base\\Component' . "\0" . '_events";a:0:{}s:35:"' . "\0" . 'yii\\base\\Component' . "\0" . '_eventWildcards";a:0:{}s:30:"' . "\0" . 'yii\\base\\Component' . "\0" . '_behaviors";a:0:{}s:23:"' . "\0" . 'yii\\base\\Model' . "\0" . '_errors";N;s:27:"' . "\0" . 'yii\\base\\Model' . "\0" . '_validators";N;s:25:"' . "\0" . 'yii\\base\\Model' . "\0" . '_scenario";s:7:"default";s:36:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_attributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:39:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_oldAttributes";a:4:{s:2:"id";i:2;s:8:"phonenum";s:12:"111111111111";s:7:"address";s:10:"Ruang A2.8";s:9:"processed";i:0;}s:33:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_related";a:0:{}s:47:"' . "\0" . 'yii\\db\\BaseActiveRecord' . "\0" . '_relationsDependencies";a:0:{}}'),
+]
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:09:49 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:09:59 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON order.id = order_item.orderid INNER JOIN `product_variant` ON order_item.productvariantid = product_variant.id INNER JOIN `product` ON product_variant.productid = product.id
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:11:58 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id
+    in D:\Alat\laragon\www\base4\common\models\OrderSearch.php:65
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:44
+2024-03-24 12:14:56 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 12:16:53 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 12:17:15 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=2
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 12:19:17 \n[trace][application] savedddddwoeifjsdoijfiodsjfdiosj
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:211
+2024-03-24 12:29:36 \n[trace][application] TypeError: Unsupported operand types: string - int in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:177
+Stack trace:
+#0 [internal function]: backend\controllers\ProductController->actionEditImage('9')
+#1 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#2 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\base\Controller.php(178): yii\base\InlineAction->runWithParams(Array)
+#3 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('edit-image', Array)
+#4 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('product/edit-im...', Array)
+#5 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 D:\Alat\laragon\www\base4\backend\web\index.php(18): yii\base\Application->run()
+#7 {main}
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:184
+2024-03-24 23:14:34 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 23:37:22 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-24 23:57:28 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:25:58 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:26:18 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:26:42 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:28:22 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:29:46 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:30:17 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:30:54 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:31:20 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:31:39 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:31:51 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:32:17 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:32:27 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:32:33 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:32:41 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:32:48 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:32:50 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:33:18 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:33:57 \n[trace][application] SELECT * FROM `order` WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:34:21 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:35:01 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:35:44 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:36:01 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE `product`.`sellerid`=4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:36:11 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:36:24 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:48:05 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 01:48:17 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 02:26:30 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 02:33:52 \n[trace][application] [
+    '_csrf-backend' => 'gFbtabw21BLHGKGKOp9F3ipxUSOWNpNuNbIOH9NBnnfaPbIG_X7kJ4lHkfpo7TWdTDQwRftM-jQBwjZb_g_RIg==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-25 02:34:24 \n[trace][application] kesavegksih
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:76
+2024-03-25 02:38:06 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 02:43:53 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE 4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 02:43:55 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id WHERE 4
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 02:44:03 \n[trace][application] SELECT `order`.* FROM `order` INNER JOIN `order_item` ON `order`.id = `order_item`.orderid INNER JOIN `product_variant` ON `order_item`.productvariantid = `product_variant`.id INNER JOIN `product` ON `product_variant`.productid = `product`.id
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 02:44:11 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 04:07:45 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 04:08:19 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 04:09:29 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46
+2024-03-25 04:13:29 \n[trace][application] TypeError: Unsupported operand types: string - int in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:177
+Stack trace:
+#0 [internal function]: backend\controllers\ProductController->actionEditImage('11')
+#1 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#2 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\base\Controller.php(178): yii\base\InlineAction->runWithParams(Array)
+#3 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('edit-image', Array)
+#4 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('product/edit-im...', Array)
+#5 D:\Alat\laragon\www\base4\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 D:\Alat\laragon\www\base4\backend\web\index.php(18): yii\base\Application->run()
+#7 {main}
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:184
+2024-03-25 04:13:37 \n[trace][application] [
+    '_csrf-backend' => 'EISdsu0KrZK2pGcbXzdhK93QVWmR_nAmC9OiHN094o9otqTXmzqb647LU1cZVSZOhbxsLtq4QUJMnu5lrnOKwQ==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-25 04:20:50 \n[trace][application] [
+    '_csrf-backend' => 'kuLsrr8T02SsHc5wanw-fnjBPFDULrL1BPrYOz6Bcunq0NXLySPlHZRy-jwsHnkbIK0FF59og5FDt5RCTc8apw==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-25 04:22:27 \n[trace][application] [
+    '_csrf-backend' => 'hP_BOO_dNgQj3AsU2NJCUF_pp_BVDmISkoSkh-49sm_8zfhdme0AfRuzP1iesAU1B4Wetx5IU3bVyej-nXPaIQ==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-25 04:28:14 \n[trace][application] [
+    '_csrf-backend' => 'du4viwIRhzidqiUX4jb0s0N1UZp6uVJgKBJR6gWlgjopmELlYETAC_b1Q1mFUKXpJCJhwhP4BhB3RWC5QZHpAw==',
+    'ProductImageUploadForm' => [
+        'imageFile' => '',
+    ],
+]
+    in D:\Alat\laragon\www\base4\backend\controllers\ProductController.php:189
+2024-03-25 06:16:14 \n[trace][application] SELECT * FROM `order`
+    in D:\Alat\laragon\www\base4\backend\views\order\index.php:16
+    in D:\Alat\laragon\www\base4\backend\controllers\OrderController.php:46

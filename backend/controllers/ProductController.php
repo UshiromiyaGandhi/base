@@ -181,14 +181,15 @@ class ProductController extends Controller
 				}
 				$this->refresh();
 			} catch (\Throwable $exception) {
+				Yii::debug($exception);
 			}
 		}
 
 		if (isset(Yii::$app->request->post()['ProductImageUploadForm']['imageFile'])) {
+			Yii::debug(Yii::$app->request->post());
 			$productImageUploadForm->productImageId = Yii::$app->request->post()['ProductImageUploadForm']['productImageId'] ?? null;
 			$productImageUploadForm->productId = $model->id;
 			$productImageUploadForm->imageFile = UploadedFile::getInstance($productImageUploadForm, 'imageFile');
-			Yii::debug(Yii::$app->request->post());
 			$productImageUploadForm->upload();
 			$this->refresh();
 		}

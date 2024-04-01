@@ -208,11 +208,12 @@ class User extends ActiveRecord implements IdentityInterface
 
 	public function afterSave($insert, $changedAttributes)
 	{
+		$shop = $this->getShop() ?: new Shop();
 		if ($insert){
 			$authManager = Yii::$app->authManager;
 			$authManager->assign($authManager->getRole('penjual'), $this->id);
+			$shop->name = $this->username . "'s Shop";
 		}
-		$shop = $this->getShop() ?: new Shop();
 		$shop->userid = $this->id;
 		$shop->active = Yii::$app->authManager->checkAccess($this->id, 'haveActiveShop') ? 1 : 0;
 		$shop->save();

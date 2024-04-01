@@ -1,19 +1,22 @@
 <?php
 
 /**
- * @var Shop $model
+ * @var \common\models\Product $model
  */
 
+use common\models\ProductImage;
 use common\models\Shop;
 use yii\helpers\Html;
+use yii\helpers\Url;
 
 ?>
 <div class="animate_top sg vk rm xm">
 	<div class="c rc i z-1 pg">
+		<?php $image = ProductImage::find()->where(['productid'=> $model->id])->orderBy(['order' => SORT_ASC])->one()->filename ?? null?>
 		<img
-			class="w-full"
-			src="images/blog-01.png"
-			alt="Blog"/>
+			class="w-full aspect-video object-cover"
+			src=<?='"'.str_replace('frontend', 'backend', Url::base()) .'/uploads/productPhoto/' . $image .'"' ?>
+			alt="Product Image"/>
 
 		<div
 			class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10"

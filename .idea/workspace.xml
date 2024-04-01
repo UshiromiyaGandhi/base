@@ -4,45 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eb79cf6-7b28-4e31-b920-dc23e3ed8043" name="Changes" comment="tambah frontend dan finalisasi backend">
-      <change afterPath="$PROJECT_DIR$/backend/models/ProductImageUploadForm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/web/js/components/dragimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/views/shop/_shopProduct.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/views/shop/uploadProduct.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/views/shop/viewProduct.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/web/js/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/base4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/base4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="5eb79cf6-7b28-4e31-b920-dc23e3ed8043" name="Changes" comment="product image finalisasi">
+      <change afterPath="$PROJECT_DIR$/backend/models/ShopQrisUploadForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/web/images/logobase.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/assets/AppAsset.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/assets/AppAsset.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/ProductController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/controllers/ShopController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/ShopController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/ProductImageUploadForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/ProductImageUploadForm.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/models/ProductVariantImageUpladForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/ProductVariantImageUpladForm.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/runtime/cache/3c/3cc06dc946675b5a5ae119c11fd2c78d.bin" beforeDir="false" afterPath="$PROJECT_DIR$/backend/runtime/cache/3c/3cc06dc946675b5a5ae119c11fd2c78d.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/runtime/debug/index.data" beforeDir="false" afterPath="$PROJECT_DIR$/backend/runtime/debug/index.data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/runtime/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/backend/runtime/logs/app.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/views/order/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/order/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/views/product/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/product/create.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/views/product/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/product/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/views/product/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/product/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/views/partials/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/partials/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/views/partials/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/partials/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/views/product/editImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/product/editImage.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/views/shop/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/shop/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/web/css/tw.css" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/css/tw.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/web/uploads/profilephoto/1711276454.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/models/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/common/models/Order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/models/OrderSearch.php" beforeDir="false" afterPath="$PROJECT_DIR$/common/models/OrderSearch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/models/Shop.php" beforeDir="false" afterPath="$PROJECT_DIR$/common/models/Shop.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/assets/AppAsset.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/assets/AppAsset.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/controllers/ShopController.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/controllers/ShopController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/layouts/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/layouts/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/shop/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/shop/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/yiisoft/extensions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/yiisoft/extensions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yii" beforeDir="false" afterPath="$PROJECT_DIR$/yii" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/views/shop/_shopProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/shop/_shopProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/views/shop/uploadProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/shop/uploadProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/views/shop/viewProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/shop/viewProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/mdmsoft/yii2-admin/models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/mdmsoft/yii2-admin/models/User.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +187,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;21.5.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.11.24&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Alat/laragon/www/base4/frontend/web/js&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Alat/laragon/www/base4/backend/web/images&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -214,11 +201,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Alat\laragon\www\base4\backend\web\images" />
       <recent name="D:\Alat\laragon\www\base4\frontend\web\js" />
       <recent name="D:\Alat\laragon\www\base4\frontend\web" />
       <recent name="D:\Alat\laragon\www\base4\backend\views\product" />
       <recent name="D:\Alat\laragon\www\base4\backend\views\shop" />
-      <recent name="D:\Alat\laragon\www\base4\common" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Alat\laragon\www\base4\common" />
@@ -282,7 +269,9 @@
       <workItem from="1711068075964" duration="20499000" />
       <workItem from="1711177575941" duration="21015000" />
       <workItem from="1711210736738" duration="27390000" />
-      <workItem from="1711267806642" duration="6381000" />
+      <workItem from="1711267806642" duration="15627000" />
+      <workItem from="1711320717048" duration="10217000" />
+      <workItem from="1711334165186" duration="1078000" />
     </task>
     <task id="LOCAL-00001" summary="sign up page dibenerin">
       <option name="closed" value="true" />
@@ -340,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711073907818</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="product image finalisasi">
+      <option name="closed" value="true" />
+      <created>1711276746434</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711276746434</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +364,8 @@
     <MESSAGE value="progress" />
     <MESSAGE value="tambah menu shop" />
     <MESSAGE value="tambah frontend dan finalisasi backend" />
-    <option name="LAST_COMMIT_MESSAGE" value="tambah frontend dan finalisasi backend" />
+    <MESSAGE value="product image finalisasi" />
+    <option name="LAST_COMMIT_MESSAGE" value="product image finalisasi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

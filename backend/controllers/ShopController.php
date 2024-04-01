@@ -3,6 +3,7 @@
 namespace backend\controllers;
 
 use backend\models\ShopProfileUploadForm;
+use backend\models\ShopQrisUploadForm;
 use common\models\Shop;
 use common\models\ShopSearch;
 use mdm\admin\models\User;
@@ -58,7 +59,7 @@ class ShopController extends Controller
 		$userModel = Yii::$app->user->identity;
 		$shopModel = $this->findModel($userModel->shop);
 		$profileUploadForm = new ShopProfileUploadForm();
-
+		$shopQrisUploadForm = new ShopQrisUploadForm();
 		if (
 //			$this->request->isPost &&
 //			$shopModel->load($this->request->post()) &&
@@ -68,17 +69,27 @@ class ShopController extends Controller
 		) {
 			$userModel->save();
 			$shopModel->save();
+			$this->refresh();
 		}
 
 		if (isset(Yii::$app->request->post()['ShopProfileUploadForm'])) {
 			$profileUploadForm->imageFile = UploadedFile::getInstance($profileUploadForm, 'imageFile');
 			$profileUploadForm->upload($shopModel);
+			$this->refresh();
+		}
+
+		if (isset(Yii::$app->request->post()['ShopQrisUploadForm'])) {
+			$shopQrisUploadForm->imageFile = UploadedFile::getInstance($shopQrisUploadForm, 'imageFile');
+			$shopQrisUploadForm->shopId = $shopModel->id;
+			$shopQrisUploadForm->upload();
+			$this->refresh();
 		}
 
 		return $this->render('index', [
 			'shopModel' => $shopModel,
 			'userModel' => $userModel,
-			'profileUploadForm' => $profileUploadForm
+			'profileUploadForm' => $profileUploadForm,
+			'shopQrisUploadForm' => $shopQrisUploadForm
 		]);
 //        $searchModel = new ShopSearch();
 //        $dataProvider = $searchModel->search($this->request->queryParams);
