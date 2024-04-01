@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "06ee14f8226ab10e9919607c238b3b6a",
+    "content-hash": "a0e0fbb94441deab5d660ae5b317b2be",
     "packages": [
         {
             "name": "bower-asset/bootstrap",
@@ -2060,6 +2060,69 @@
                 "source": "https://github.com/Behat/Gherkin/tree/v4.9.0"
             },
             "time": "2021-10-12T13:05:09+00:00"
+        },
+        {
+            "name": "bizley/migration",
+            "version": "4.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bizley/yii2-migration.git",
+                "reference": "ab28e05d21c0c827c6f1b7eaaf3b7e49bdde1179"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bizley/yii2-migration/zipball/ab28e05d21c0c827c6f1b7eaaf3b7e49bdde1179",
+                "reference": "ab28e05d21c0c827c6f1b7eaaf3b7e49bdde1179",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "ext-pdo": "*",
+                "php": ">=7.2",
+                "yiisoft/yii2": "^2.0.19"
+            },
+            "require-dev": {
+                "infection/infection": "*",
+                "phpstan/phpstan": "*",
+                "phpunit/phpunit": "<10.0",
+                "roave/security-advisories": "dev-latest"
+            },
+            "type": "yii2-extension",
+            "autoload": {
+                "psr-4": {
+                    "bizley\\migration\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Paweł Bizley Brzozowski",
+                    "email": "pawel@positive.codes"
+                }
+            ],
+            "description": "Migration generator for Yii 2.",
+            "keywords": [
+                "console",
+                "generator",
+                "migrate",
+                "migration",
+                "updater",
+                "yii2"
+            ],
+            "support": {
+                "issues": "https://github.com/bizley/yii2-migration/issues",
+                "source": "https://github.com/bizley/yii2-migration"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/sponsors/bizley",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-09-05T15:43:39+00:00"
         },
         {
             "name": "codeception/codeception",

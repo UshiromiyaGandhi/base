@@ -59,6 +59,7 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
         ),
         'b' => 
         array (
+            'bizley\\migration\\' => 17,
             'backend\\tests\\' => 14,
         ),
         'S' => 
@@ -187,6 +188,10 @@ class ComposerStaticInit2158b2fbf2c2f964ea5d76c3986297c9
         'cebe\\markdown\\' => 
         array (
             0 => __DIR__ . '/..' . '/cebe/markdown',
+        ),
+        'bizley\\migration\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/bizley/migration/src',
         ),
         'backend\\tests\\' => 
         array (

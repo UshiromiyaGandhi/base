@@ -103,4 +103,13 @@ return array (
       '@kartik/sortable' => $vendorDir . '/kartik-v/yii2-sortable/src',
     ),
   ),
+  'bizley/migration' => 
+  array (
+    'name' => 'bizley/migration',
+    'version' => '4.4.1.0',
+    'alias' => 
+    array (
+      '@bizley/migration' => $vendorDir . '/bizley/migration/src',
+    ),
+  ),
 );

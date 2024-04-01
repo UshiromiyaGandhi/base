@@ -4,7 +4,7 @@ return [
     'components' => [
         'db' => [
             'class' => \yii\db\Connection::class,
-            'dsn' => 'mysql:host=localhost;dbname=',
+            'dsn' => 'mysql:host=localhost;dbname=base4',
             'username' => 'root',
             'password' => '',
             'charset' => 'utf8',
